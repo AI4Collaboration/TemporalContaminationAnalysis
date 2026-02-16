@@ -1,0 +1,2862 @@
+[
+  {
+    "id": "wiki-news-0188",
+    "date": "2023-05-01",
+    "question": "According to news reports on 2023-05-01, which entity best fills the blank in this statement?\n[BLANK] wins his first World Snooker Championship title, defeating Mark Selby by a score of 18\u201315 in the final at The Crucible in Sheffield, England. Brecel becomes the first player from continental Europe to win the tournament.",
+    "options": {
+      "A": "Venezuelan President",
+      "B": "hostage",
+      "C": "Russian strikes against infrastructure",
+      "D": "Luca Brecel"
+    },
+    "answer": "D",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0174",
+    "date": "2023-05-02",
+    "question": "According to news reports on 2023-05-02, which entity best fills the blank in this statement?\nThe [BLANK] passes new anti-LGBTQ+ laws after president Yoweri Museveni requested reforms. The bill maintains the death penalty as a punishment for \"aggravated homosexuality\".",
+    "options": {
+      "A": "Australian Prime Minister",
+      "B": "suicide bombing",
+      "C": "United States Central Command",
+      "D": "parliament of Uganda"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0215",
+    "date": "2023-05-02",
+    "question": "According to news reports on 2023-05-02, which entity best fills the blank in this statement?\n[BLANK] re-capture Geneina, the capital of West Darfur, after a week of fighting with more than 200 people killed.",
+    "options": {
+      "A": "Bolivia",
+      "B": "Tokelau",
+      "C": "Attacks on U.S. bases in Iraq, Jordan, and Syria",
+      "D": "Rapid Support Forces"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0211",
+    "date": "2023-05-03",
+    "question": "According to news reports on 2023-05-03, which entity best fills the blank in this statement?\nThe [BLANK]ese foreign ministry announces that a seven-day ceasefire has been agreed to in Sudan, lasting from May 4 to 11.",
+    "options": {
+      "A": "Palestinian",
+      "B": "pilgrim",
+      "C": "tennis",
+      "D": "South Sudan"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0159",
+    "date": "2023-05-04",
+    "question": "According to news reports on 2023-05-04, which entity best fills the blank in this statement?\nThe [BLANK] raises interest rates by a quarter of a percentage point, the smallest increase since it began hiking rates in July.",
+    "options": {
+      "A": "European Central Bank",
+      "B": "Attacks in Russia during the Russian invasion of Ukraine",
+      "C": "Philippines",
+      "D": "arson"
+    },
+    "answer": "A",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0208",
+    "date": "2023-05-04",
+    "question": "According to news reports on 2023-05-04, which entity best fills the blank in this statement?\nFour members of the [BLANK] are found guilty of seditious conspiracy by a jury in Washington, D.C., for their role in forcibly preventing the peaceful transfer of power from then-U.S. President Donald Trump to Joe Biden after the 2020 presidential election.",
+    "options": {
+      "A": "Test cricket",
+      "B": "Proud Boys",
+      "C": "International sanctions during the Russian invasion of Ukraine",
+      "D": "U.S. Congressman"
+    },
+    "answer": "B",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0014",
+    "date": "2023-05-05",
+    "question": "According to news reports on 2023-05-05, which entity best fills the blank in this statement?\n[BLANK] leader Yevgeny Prigozhin announces that, due to a lack of ammunition, his fighters will leave Bakhmut, Donetsk Oblast, on May 10 and hand over their positions to units of the Russian Defense Ministry.",
+    "options": {
+      "A": "Tokelau",
+      "B": "Dean Phillips 2024 presidential campaign",
+      "C": "HonestReporting",
+      "D": "Wagner Group"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0004",
+    "date": "2023-05-06",
+    "question": "According to news reports on 2023-05-06, which entity best fills the blank in this statement?\nTwo [BLANK] men, members of the Tul Karm Battalion, are killed during a raid by the Israeli Defense Forces in Tulkarm in the West Bank.",
+    "options": {
+      "A": "vote of no confidence",
+      "B": "shot down",
+      "C": "Palestinian",
+      "D": "parliamentarian member"
+    },
+    "answer": "C",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0142",
+    "date": "2023-05-06",
+    "question": "According to news reports on 2023-05-06, which entity best fills the blank in this statement?\nAt least 30 people are killed in ethnic clashes in [BLANK], India, after a rally by indigenous communities against moves to grant tribal status to the main ethnic group in the state.",
+    "options": {
+      "A": "Kuwaiti Prime Minister",
+      "B": "Cameroon",
+      "C": "Manipur",
+      "D": "grenade"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0124",
+    "date": "2023-05-07",
+    "question": "According to news reports on 2023-05-07, which entity best fills the blank in this statement?\n[BLANK] announces that 115 Venezuelan migrants were repatriated to Venezuela on a humanitarian flight, after being stranded at the border with Peru, raising tensions between Peru and Chile.",
+    "options": {
+      "A": "Ministry of Communications and Digital",
+      "B": "Writers Guild of America",
+      "C": "Chile",
+      "D": "NATO"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0022",
+    "date": "2023-05-09",
+    "question": "According to news reports on 2023-05-09, which entity best fills the blank in this statement?\nTwo [BLANK] are killed in an Israeli air attack on a car in Khan Yunis in the Gaza Strip.",
+    "options": {
+      "A": "grenade",
+      "B": "Russian forces",
+      "C": "Palestinians",
+      "D": "Zaporizhzhia Nuclear Power Plant crisis"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0189",
+    "date": "2023-05-09",
+    "question": "According to news reports on 2023-05-09, which entity best fills the blank in this statement?\nThe [BLANK] expels Chinese diplomat Zhao Wei following allegations that Zhao targeted Canadian politician Michael Chong. China has denied the allegations and stated that the action would undermine bilateral relations.",
+    "options": {
+      "A": "shooting spree",
+      "B": "Uzbek authorities",
+      "C": "Cuban foreign ministry",
+      "D": "Government of Canada"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0021",
+    "date": "2023-05-11",
+    "question": "According to news reports on 2023-05-11, which entity best fills the blank in this statement?\n[BLANK] leader Yevgeny Prigozhin confirms that Ukrainian troops have recaptured parts of Bakhmut in Donetsk Oblast from his forces.",
+    "options": {
+      "A": "air raids",
+      "B": "Wagner Group",
+      "C": "Justin Trudeau",
+      "D": "Buldhana district"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0175",
+    "date": "2023-05-11",
+    "question": "According to news reports on 2023-05-11, which entity best fills the blank in this statement?\nThe [BLANK] says that mpox no longer constitutes a global health emergency, but that it continues to remain a threat in Africa.",
+    "options": {
+      "A": "Indonesian President",
+      "B": "World Health Organization",
+      "C": "shooting spree",
+      "D": "Donald Trump"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0001",
+    "date": "2023-05-12",
+    "question": "According to news reports on 2023-05-12, which entity best fills the blank in this statement?\nSix [BLANK] and a civilian are killed, and six others are wounded, when gunmen storm a security facility in Muslim Bagh, Balochistan, Pakistan. All six attackers are killed.",
+    "options": {
+      "A": "Maimbung",
+      "B": "United Arab Emirates",
+      "C": "NATO summit",
+      "D": "soldiers"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0112",
+    "date": "2023-05-12",
+    "question": "According to news reports on 2023-05-12, which entity best fills the blank in this statement?\n[BLANK] frees two French citizens on humanitarian grounds.",
+    "options": {
+      "A": "Houthi",
+      "B": "Iran",
+      "C": "Manipur",
+      "D": "Oxfam"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0207",
+    "date": "2023-05-12",
+    "question": "According to news reports on 2023-05-12, which entity best fills the blank in this statement?\n[BLANK] announces that he has selected NBCUniversal executive Linda Yaccarino as the new CEO for X Corp., the owner of Twitter.",
+    "options": {
+      "A": "Health Minister",
+      "B": "Attacks on civilians in the Russian invasion of Ukraine",
+      "C": "Elon Musk",
+      "D": "hostage"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0012",
+    "date": "2023-05-13",
+    "question": "According to news reports on 2023-05-13, which entity best fills the blank in this statement?\n[BLANK] says that it maintains a neutral and non-aligned stance in regards to the Russo-Ukrainian War after U.S. ambassador Reuben Brigety accused South Africa of loading a sanctioned Russian ship with weapons in December 2022, causing a diplomatic crisis between the United States and South Africa.",
+    "options": {
+      "A": "Malians",
+      "B": "South Africa",
+      "C": "2024 Iowa Republican presidential caucuses",
+      "D": "pilgrim"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0184",
+    "date": "2023-05-13",
+    "question": "According to news reports on 2023-05-13, which entity best fills the blank in this statement?\n[BLANK] head to the polls to elect the 176 members of the National Assembly.",
+    "options": {
+      "A": "IDF",
+      "B": "Stepanakert",
+      "C": "Mauritanians",
+      "D": "International sanctions during the Russian invasion of Ukraine"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0195",
+    "date": "2023-05-13",
+    "question": "According to news reports on 2023-05-13, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "U.S. Representative",
+      "B": "Turkish parliament",
+      "C": "2022\u20132023 Russian strikes against Ukrainian infrastructure",
+      "D": "Nova Scotia"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0213",
+    "date": "2023-05-16",
+    "question": "According to news reports on 2023-05-16, which entity best fills the blank in this statement?\nAt least 80 people are killed by armed attackers during a [BLANK] on several villages in Plateau State, Nigeria.",
+    "options": {
+      "A": "shooting spree",
+      "B": "forensics",
+      "C": "earthquake",
+      "D": "Belarusian"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0017",
+    "date": "2023-05-17",
+    "question": "According to news reports on 2023-05-17, which entity best fills the blank in this statement?\nEight people are killed in [BLANK], Ravenna and Bologna, and 20,000 are evacuated during heavy floods in the region of Emilia-Romagna, Italy. Twenty-three rivers have overflowed their banks across the region.",
+    "options": {
+      "A": "kidnap",
+      "B": "World Food Programme",
+      "C": "Forl\u00ec\u2013Cesena",
+      "D": "Amnesty International"
+    },
+    "answer": "C",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0052",
+    "date": "2023-05-17",
+    "question": "According to news reports on 2023-05-17, which entity best fills the blank in this statement?\nThe [BLANK], which was scheduled to be held at the Autodromo Internazionale Enzo e Dino Ferrari in Imola from May 19\u201321, is cancelled because of the floods.",
+    "options": {
+      "A": "sexual assault",
+      "B": "2023 Emilia Romagna Grand Prix",
+      "C": "Gaza Strip",
+      "D": "Black Dog"
+    },
+    "answer": "B",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0106",
+    "date": "2023-05-17",
+    "question": "According to news reports on 2023-05-17, which entity best fills the blank in this statement?\nThe [BLANK] reports that the fishing vessel ''Lu Peng Yuan Yu 028'' capsized in the central Indian Ocean on Tuesday. China and other countries are conducting search operations for 39 sailors, including Chinese, Indonesian, and Filipino nationals.",
+    "options": {
+      "A": "curfew",
+      "B": "Hezbollah",
+      "C": "Chinese government",
+      "D": "Cuban foreign ministry"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0191",
+    "date": "2023-05-21",
+    "question": "According to news reports on 2023-05-21, which entity best fills the blank in this statement?\nCitizens in [BLANK] head to the polls to elect the 65 members of the National Parliament.",
+    "options": {
+      "A": "cruise missile",
+      "B": "Ain al-Hilweh",
+      "C": "East Timor",
+      "D": "Belgorod Governor"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0051",
+    "date": "2023-05-25",
+    "question": "According to news reports on 2023-05-25, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Gaza Strip",
+      "B": "Al-Suwayda",
+      "C": "Russian military presence in Belarus",
+      "D": "wildfire"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0136",
+    "date": "2023-05-25",
+    "question": "According to news reports on 2023-05-25, which entity best fills the blank in this statement?\n[BLANK] to the United Kingdom reaches a record of 606,000, mostly due to non-EU arrivals, according to the Office for National Statistics. In response, Minister of State for Immigration Robert Jenrick reaffirmed the governments commitment \"to reducing overall net migration to sustainable levels\".",
+    "options": {
+      "A": "Emmanuel Macron",
+      "B": "pilgrim",
+      "C": "Net migration",
+      "D": "2022\u20132023 Russian strikes against Ukrainian infrastructure"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0152",
+    "date": "2023-05-25",
+    "question": "According to news reports on 2023-05-25, which entity best fills the blank in this statement?\n[BLANK] Hossein Amir-Abdollahian says that Iran does not recognize the Taliban government in Afghanistan due to the lack of an inclusive government as well as recent tensions between Iran and the Taliban over border incidents and a dispute over the Helmand River.",
+    "options": {
+      "A": "Hezbollah",
+      "B": "Burundi",
+      "C": "Israeli settler",
+      "D": "Iranian Foreign Minister"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0203",
+    "date": "2023-05-26",
+    "question": "According to news reports on 2023-05-26, which entity best fills the blank in this statement?\nSeventeen civilians are killed by [BLANK] members in Beni, North Kivu, Democratic Republic of the Congo.",
+    "options": {
+      "A": "Oxfam",
+      "B": "Morality Police",
+      "C": "Syrian Air Force",
+      "D": "Allied Democratic Forces"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0013",
+    "date": "2023-05-28",
+    "question": "According to news reports on 2023-05-28, which entity best fills the blank in this statement?\n[BLANK] announces that beginning next year, the country will change to a presidential system and elect officials by direct vote, ending more than three decades of indirect voting where lawmakers elected the country's leaders with the approval of clan and elderly leaders.",
+    "options": {
+      "A": "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+      "B": "Philippe Lazzarini",
+      "C": "curfew",
+      "D": "Somalia"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0169",
+    "date": "2023-05-28",
+    "question": "According to news reports on 2023-05-28, which entity best fills the blank in this statement?\n[BLANK] is declared the winner by the Supreme Election Council, defeating his opponent Kemal K\u0131l\u0131\u00e7daro\u011flu with 52 percent of the vote.",
+    "options": {
+      "A": "Ukraine",
+      "B": "Ugandan President",
+      "C": "Hezbollah",
+      "D": "Recep Tayyip Erdo\u011fan"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0031",
+    "date": "2023-05-29",
+    "question": "According to news reports on 2023-05-29, which entity best fills the blank in this statement?\n[BLANK] Yoweri Museveni signs the Anti-Homosexuality Bill into law which introduces the death penalty for \"aggravated homosexuality\" and a sentence of 20 years in prison for the \"promotion of homosexuality\".",
+    "options": {
+      "A": "Ugandan President",
+      "B": "Syria",
+      "C": "Colombia",
+      "D": "shot down"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0092",
+    "date": "2023-05-29",
+    "question": "According to news reports on 2023-05-29, which entity best fills the blank in this statement?\nTwenty-five [BLANK] of the NATO-led KFOR are injured after clashes with ethnic Serbs in North Kosovo over the installation of ethnic Albanian mayors. Serbian President Aleksandar Vu\u010di\u0107 places the Serbian Armed Forces on the highest level of combat alert in response to the clashes.",
+    "options": {
+      "A": "Cambodian People's Party",
+      "B": "Yuval",
+      "C": "peacekeepers",
+      "D": "Iran"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0095",
+    "date": "2023-05-29",
+    "question": "According to news reports on 2023-05-29, which entity best fills the blank in this statement?\nThe [BLANK] issues an arrest warrant for United States Senator Lindsey Graham over comments Graham made about the Russian invasion of Ukraine.",
+    "options": {
+      "A": "Sweden",
+      "B": "Portugal",
+      "C": "Russian Interior Ministry",
+      "D": "Journalists killed in the Israel\u2013Hamas war"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0190",
+    "date": "2023-05-30",
+    "question": "According to news reports on 2023-05-30, which entity best fills the blank in this statement?\nAn [BLANK] is shot and killed near Hermesh, West Bank by Al Aqsa Martyrs Brigade gunmen.",
+    "options": {
+      "A": "Russia",
+      "B": "same-sex marriage",
+      "C": "Cuban foreign ministry",
+      "D": "Israeli settler"
+    },
+    "answer": "D",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0132",
+    "date": "2023-06-01",
+    "question": "According to news reports on 2023-06-01, which entity best fills the blank in this statement?\nThe [BLANK] votes in favour of a new clause of the penal code which will introduce the death penalty for \"unpatriotic acts\" such as supporting sanctions on the country or supporting calls to overthrow the government.",
+    "options": {
+      "A": "Mannheim",
+      "B": "Montana Governor",
+      "C": "parliament of Zimbabwe",
+      "D": "Dean Phillips 2024 presidential campaign"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0138",
+    "date": "2023-06-02",
+    "question": "According to news reports on 2023-06-02, which entity best fills the blank in this statement?\n[BLANK] releases one Danish and two dual Austrian-Iranian citizens.",
+    "options": {
+      "A": "China National Nuclear Corporation",
+      "B": "Iran",
+      "C": "Stepanakert",
+      "D": "Cuban foreign ministry"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0024",
+    "date": "2023-06-03",
+    "question": "According to news reports on 2023-06-03, which entity best fills the blank in this statement?\nIn [BLANK], Manchester City beat rivals Manchester United 2\u20131 in the FA Cup final at Wembley Stadium in London to win their seventh FA Cup title. \u0130lkay G\u00fcndo\u011fan breaks the record for the fastest goal in an FA Cup final, scoring after just 12 seconds.",
+    "options": {
+      "A": "Nikki Haley 2024 presidential campaign",
+      "B": "Criminal proceedings in the January 6 United States Capitol attack",
+      "C": "Seimas",
+      "D": "association football"
+    },
+    "answer": "D",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0007",
+    "date": "2023-06-07",
+    "question": "According to news reports on 2023-06-07, which entity best fills the blank in this statement?\n[BLANK] Doug Burgum announces his candidacy for President of the United States in 2024.",
+    "options": {
+      "A": "Governor of North Dakota",
+      "B": "Dhaka",
+      "C": "Tchiani",
+      "D": "Omdurman"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0070",
+    "date": "2023-06-07",
+    "question": "According to news reports on 2023-06-07, which entity best fills the blank in this statement?\nIn [BLANK], West Ham United defeat ACF Fiorentina 2\u20131 at the Fortuna Arena in Prague, Czech Republic, to win the 2022\u201323 UEFA Europa Conference League and qualify for the group stage of the 2023\u201324 UEFA Europa League.",
+    "options": {
+      "A": "Criminal proceedings in the January 6 United States Capitol attack",
+      "B": "stampede",
+      "C": "Writers Guild of America",
+      "D": "association football"
+    },
+    "answer": "D",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0193",
+    "date": "2023-06-08",
+    "question": "According to news reports on 2023-06-08, which entity best fills the blank in this statement?\nAt least 11 people are killed and 30 others are injured by a [BLANK] outside a mosque in Fayzabad, Afghanistan, during a prayer service for the deputy governor of Badakhshan Province who was killed two days ago. The Islamic State claimed responsibility.",
+    "options": {
+      "A": "car bomb",
+      "B": "Chinese government",
+      "C": "explosion",
+      "D": "Russian military presence in Belarus"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0133",
+    "date": "2023-06-10",
+    "question": "According to news reports on 2023-06-10, which entity best fills the blank in this statement?\nCanadian Prime Minister [BLANK] announces a $500 million military aid package to Ukraine (including 288 AIM-7 missiles) and a $10 million humanitarian aid package to help victims of the Kakhovka dam collapse.",
+    "options": {
+      "A": "northern Israel",
+      "B": "Portugal",
+      "C": "31 October 2023 Jabalia refugee camp airstrike",
+      "D": "Justin Trudeau"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0205",
+    "date": "2023-06-10",
+    "question": "According to news reports on 2023-06-10, which entity best fills the blank in this statement?\nSix civilians and three soldiers are killed and ten others are injured by [BLANK] at a hotel in Lido Beach, Mogadishu. All seven attackers are also killed.",
+    "options": {
+      "A": "Nauru",
+      "B": "al-Shabaab",
+      "C": "Emmanuel Macron",
+      "D": "Farajollah Chaab"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0009",
+    "date": "2023-06-11",
+    "question": "According to news reports on 2023-06-11, which entity best fills the blank in this statement?\nIn [BLANK], Novak Djokovic defeats Casper Ruud 7\u20136(7\u20131), 6\u20133, 7\u20135 in the final to win the men's singles title at the 2023 French Open. Djokovic surpasses the record he shared with Rafael Nadal to become the men's singles player with the most Grand Slam titles (23).",
+    "options": {
+      "A": "U.S. President",
+      "B": "golf",
+      "C": "tennis",
+      "D": "taxi"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0151",
+    "date": "2023-06-12",
+    "question": "According to news reports on 2023-06-12, which entity best fills the blank in this statement?\n[BLANK] and Ukraine sign an agreement to build a bridge across their border over the Dniester river between Cos\u0103u\u021bi, Moldova, and Yampil, Ukraine, bypassing the unrecognised state of Transnistria.",
+    "options": {
+      "A": "Palestinians",
+      "B": "Moldova",
+      "C": "Ta'ang National Liberation Army",
+      "D": "Slovaks"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0214",
+    "date": "2023-06-14",
+    "question": "According to news reports on 2023-06-14, which entity best fills the blank in this statement?\n[BLANK] Joko Widodo announces that the country will end their COVID-19 emergency within the next two weeks and transition into endemic status.",
+    "options": {
+      "A": "Jeremy Corbyn",
+      "B": "Indonesian President",
+      "C": "Journalists killed in the Israel\u2013Hamas war",
+      "D": "Beijing"
+    },
+    "answer": "B",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0074",
+    "date": "2023-06-15",
+    "question": "According to news reports on 2023-06-15, which entity best fills the blank in this statement?\n[BLANK] Anthony Albanese announces that the parliament will pass a law to prohibit the construction of a new Russian embassy in Canberra due to national security concerns regarding the embassy's proposed location adjacent to Parliament House.",
+    "options": {
+      "A": "Australian Prime Minister",
+      "B": "Red Crescent Society",
+      "C": "Moetai Brotherson",
+      "D": "China"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0220",
+    "date": "2023-06-15",
+    "question": "According to news reports on 2023-06-15, which entity best fills the blank in this statement?\nThe [BLANK] enters a recession after gross domestic product fell 0.1% in the March quarter, as the central bank raises interest rates to a 14-year high. Annual growth also slowed to 2.2%, according to Statistics New Zealand.",
+    "options": {
+      "A": "Red Crescent Society",
+      "B": "Syrian Air Force",
+      "C": "internally displaced",
+      "D": "economy of New Zealand"
+    },
+    "answer": "D",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0050",
+    "date": "2023-06-16",
+    "question": "According to news reports on 2023-06-16, which entity best fills the blank in this statement?\nForty-one people are killed, including 38 students, eight others injured and at least six [BLANK]ped during an attack by five Allied Democratic Forces jihadists at a secondary school in Mpondwe, Western Region, Uganda.",
+    "options": {
+      "A": "air raids",
+      "B": "kidnap",
+      "C": "mobile carrier",
+      "D": "South Sudan"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0141",
+    "date": "2023-06-17",
+    "question": "According to news reports on 2023-06-17, which entity best fills the blank in this statement?\nThe [BLANK] launches airstrikes in Khartoum, killing at least 17 people and destroying dozens of homes. The armed forces and the Rapid Support Forces agree to a 72-hour ceasefire.",
+    "options": {
+      "A": "Ta'ang National Liberation Army",
+      "B": "United Arab Emirates",
+      "C": "Sudanese Air Force",
+      "D": "association football"
+    },
+    "answer": "C",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0187",
+    "date": "2023-06-17",
+    "question": "According to news reports on 2023-06-17, which entity best fills the blank in this statement?\nTwo people are killed and two others wounded during a [BLANK] at the Gorge Amphitheatre in Grant County, Washington, United States.",
+    "options": {
+      "A": "Jacksonville",
+      "B": "Smoke from the 2023 Canadian wildfires",
+      "C": "mass shooting",
+      "D": "taxi"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0045",
+    "date": "2023-06-18",
+    "question": "According to news reports on 2023-06-18, which entity best fills the blank in this statement?\nIn association football, the [BLANK] defeat Canada 2\u20130 in the final held at Allegiant Stadium in Paradise, Nevada, United States, to win their second CONCACAF Nations League championship. Christian Pulisic is named the tournament's \"best player\".",
+    "options": {
+      "A": "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+      "B": "American soldier",
+      "C": "United States",
+      "D": "Portugal"
+    },
+    "answer": "C",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0197",
+    "date": "2023-06-18",
+    "question": "According to news reports on 2023-06-18, which entity best fills the blank in this statement?\n[BLANK] Ahmad Nawaf Al-Ahmad Al-Sabah forms a new cabinet following his reappointment, appointing Ahmed Al-Fahad Al-Ahmed Al-Sabah as the defense minister and Saad Al Barrak as the oil minister.",
+    "options": {
+      "A": "Venezuelan President",
+      "B": "United Nations Office for the Coordination of Humanitarian Affairs",
+      "C": "Kuwaiti Prime Minister",
+      "D": "Manchester Crown Court"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0217",
+    "date": "2023-06-18",
+    "question": "According to news reports on 2023-06-18, which entity best fills the blank in this statement?\n[BLANK] head to the polls to vote on a referendum that, among other things, would enhance the powers of the President.",
+    "options": {
+      "A": "Russian military presence in Belarus",
+      "B": "Attacks on U.S. bases in Iraq, Jordan, and Syria",
+      "C": "Indonesian President",
+      "D": "Malians"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0077",
+    "date": "2023-06-19",
+    "question": "According to news reports on 2023-06-19, which entity best fills the blank in this statement?\nThe [BLANK] ''Titan'', carrying tourists to the wreck of the RMS ''Titanic'', is reported missing, with the United States Coast Guard attempting to locate the missing vessel.",
+    "options": {
+      "A": "Zaporizhzhia Nuclear Power Plant crisis",
+      "B": "Senegal",
+      "C": "parliament of Uganda",
+      "D": "submersible"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0026",
+    "date": "2023-06-20",
+    "question": "According to news reports on 2023-06-20, which entity best fills the blank in this statement?\n[BLANK] kill four Israelis and injure four others in a mass shooting at a restaurant and a petrol station near the Israeli settlement of Eli in the occupied West Bank. The two gunmen are killed by a civilian and a soldier.",
+    "options": {
+      "A": "Democratic Republic of the Congo",
+      "B": "Hamas",
+      "C": "Artsakh",
+      "D": "Health Minister"
+    },
+    "answer": "B",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0125",
+    "date": "2023-06-20",
+    "question": "According to news reports on 2023-06-20, which entity best fills the blank in this statement?\nThe [BLANK] and the Pakistan Atomic Energy Commission sign a US$4.8 billion deal to construct the fifth unit at the Chashma Nuclear Power Plant, Pakistan's seventh nuclear power plant, in Punjab.",
+    "options": {
+      "A": "Al-Suwayda",
+      "B": "Fisheries and Agriculture Minister",
+      "C": "China National Nuclear Corporation",
+      "D": "Australian state"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0143",
+    "date": "2023-06-22",
+    "question": "According to news reports on 2023-06-22, which entity best fills the blank in this statement?\n[BLANK], China, reports a record temperature for June of , surpassing the previous June record of in 1961.",
+    "options": {
+      "A": "Burevestnik",
+      "B": "Iran",
+      "C": "Beijing",
+      "D": "Wellington"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0147",
+    "date": "2023-06-22",
+    "question": "According to news reports on 2023-06-22, which entity best fills the blank in this statement?\nAll five people aboard the submersible are [BLANK] after it was destroyed in an implosion. The United States Navy says that a sound they detected several days ago may have been the implosion.",
+    "options": {
+      "A": "Aleksandar Vulin",
+      "B": "metro",
+      "C": "protest",
+      "D": "presumed dead"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0183",
+    "date": "2023-06-22",
+    "question": "According to news reports on 2023-06-22, which entity best fills the blank in this statement?\nThe [BLANK] announces that they have discovered debris from the OceanGate submersible ''Titan'', which went missing while viewing the wreckage of the RMS ''Titanic''.",
+    "options": {
+      "A": "United States Coast Guard",
+      "B": "International sanctions during the Russian invasion of Ukraine",
+      "C": "UNRWA",
+      "D": "Rochdale"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0036",
+    "date": "2023-06-24",
+    "question": "According to news reports on 2023-06-24, which entity best fills the blank in this statement?\nAn [BLANK] transport plane is reportedly shot down over Voronezh Oblast, while Russian Air Force Ka-50 helicopters strike an oil refinery and depot in Voronezh, causing a large explosion and fire.",
+    "options": {
+      "A": "Government of Canada",
+      "B": "Philippines",
+      "C": "Antonov An-26",
+      "D": "heat-related illness"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0102",
+    "date": "2023-06-24",
+    "question": "According to news reports on 2023-06-24, which entity best fills the blank in this statement?\nTwo people, a rebel and a soldier, are killed, and fourteen others are injured in a shooting incident in [BLANK], Sulu, Philippines.",
+    "options": {
+      "A": "Taiwan",
+      "B": "Russian Interior Ministry",
+      "C": "Maimbung",
+      "D": "Israel\u2013Hamas war protests in the United States"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0068",
+    "date": "2023-06-26",
+    "question": "According to news reports on 2023-06-26, which entity best fills the blank in this statement?\n[BLANK] recapture the uninhabited village of Rivnopil in Donetsk Oblast, according to Deputy Defence Minister Hanna Maliar, the ninth in the past month.",
+    "options": {
+      "A": "Ukrainian forces",
+      "B": "Uzbek authorities",
+      "C": "U.S. Congressman",
+      "D": "athletics"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0006",
+    "date": "2023-06-27",
+    "question": "According to news reports on 2023-06-27, which entity best fills the blank in this statement?\nSuspected [BLANK]s kill several Burkinab\u00e9 soldiers and members of the Volunteers for the Defence of the Homeland in a series of attacks on troops in the village of Noaka, Pissila department, Sanmatenga Province, and in the Sahel Region.",
+    "options": {
+      "A": "Georgia election racketeering prosecution",
+      "B": "NASA",
+      "C": "Treatment of prisoners of war in the Russian invasion of Ukraine",
+      "D": "jihadist"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0164",
+    "date": "2023-06-27",
+    "question": "According to news reports on 2023-06-27, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Attacks on civilians in the Russian invasion of Ukraine",
+      "B": "Wellington",
+      "C": "2023 North Waziristan landmine attack",
+      "D": "Bar'am"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0155",
+    "date": "2023-06-28",
+    "question": "According to news reports on 2023-06-28, which entity best fills the blank in this statement?\nSmoke from the [BLANK]s in Canada reaches Portugal and Spain.",
+    "options": {
+      "A": "Russian President",
+      "B": "wildfire",
+      "C": "Recep Tayyip Erdo\u011fan",
+      "D": "parliamentarian member"
+    },
+    "answer": "B",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0082",
+    "date": "2023-07-01",
+    "question": "According to news reports on 2023-07-01, which entity best fills the blank in this statement?\nAt least 25 people are killed when a wedding bus crashes and catches fire in [BLANK], Maharashtra, India.",
+    "options": {
+      "A": "Buldhana district",
+      "B": "Justin Trudeau",
+      "C": "suicide bombing",
+      "D": "Elon Musk"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0098",
+    "date": "2023-07-03",
+    "question": "According to news reports on 2023-07-03, which entity best fills the blank in this statement?\nEight [BLANK] are killed and more than 50 others are injured when Israeli soldiers storm the Jenin refugee camp in the occupied West Bank. The Israeli Air Force also launches airstrikes during the night.",
+    "options": {
+      "A": "Ukrainian forces",
+      "B": "IDF",
+      "C": "Palestinians",
+      "D": "Israeli embassy"
+    },
+    "answer": "C",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0173",
+    "date": "2023-07-04",
+    "question": "According to news reports on 2023-07-04, which entity best fills the blank in this statement?\nThe [BLANK] cancels the World Beach Games scheduled next month in Bali, Indonesia, due to the host nation's withdrawal over budgetary issues.",
+    "options": {
+      "A": "Association of National Olympic Committees",
+      "B": "Turkey",
+      "C": "Nakano",
+      "D": "Forl\u00ec\u2013Cesena"
+    },
+    "answer": "A",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0185",
+    "date": "2023-07-05",
+    "question": "According to news reports on 2023-07-05, which entity best fills the blank in this statement?\nIhor Humenyuk, a [BLANK] at the Shevchenkivskyi District Court in Kyiv and a former member of the Sich Battalion, dies after injuring two police officers in an apparent escape attempt.",
+    "options": {
+      "A": "Justin Trudeau",
+      "B": "Russia",
+      "C": "defendant",
+      "D": "Gitanas Naus\u0117da"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0011",
+    "date": "2023-07-06",
+    "question": "According to news reports on 2023-07-06, which entity best fills the blank in this statement?\nThe [BLANK] announces plans to repatriate 478 colonial-era artifacts to Indonesia and Sri Lanka.",
+    "options": {
+      "A": "Palestinian",
+      "B": "Moetai Brotherson",
+      "C": "Yuval",
+      "D": "Dutch government"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0033",
+    "date": "2023-07-06",
+    "question": "According to news reports on 2023-07-06, which entity best fills the blank in this statement?\nTwo children are killed and 16 other people are injured when a [BLANK]es into a primary school in Wimbledon, London, United Kingdom.",
+    "options": {
+      "A": "France",
+      "B": "Typhoon Doksuri (Egay)",
+      "C": "car crash",
+      "D": "Sweden"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0044",
+    "date": "2023-07-07",
+    "question": "According to news reports on 2023-07-07, which entity best fills the blank in this statement?\nSix [BLANK] are killed at the Kutupalong camp in Ukhia, Cox's Bazar, Bangladesh, amidst clashes between rival insurgent groups, the Arakan Rohingya Salvation Army and Rohingya Solidarity Organisation.",
+    "options": {
+      "A": "Maimbung",
+      "B": "Rohingya refugees",
+      "C": "Israel\u2013Hamas war protests in the United States",
+      "D": "Red Crescent Society"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0178",
+    "date": "2023-07-08",
+    "question": "According to news reports on 2023-07-08, which entity best fills the blank in this statement?\nEnglish musician [BLANK], the fourth best-selling music artist of all time, performs his final concert at the Tele2 Arena in Stockholm, Sweden, after touring for more than 50 years.",
+    "options": {
+      "A": "Kremlin",
+      "B": "2023 Israeli invasion of the Gaza Strip",
+      "C": "United States invasion of Afghanistan",
+      "D": "Elton John"
+    },
+    "answer": "D",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0103",
+    "date": "2023-07-10",
+    "question": "According to news reports on 2023-07-10, which entity best fills the blank in this statement?\n[BLANK] announce that incumbent president Shavkat Mirziyoyev has been re-elected with 87.1% of the votes.",
+    "options": {
+      "A": "Rohingya refugees",
+      "B": "Kosovo Police",
+      "C": "Uzbek authorities",
+      "D": "Hamas"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0114",
+    "date": "2023-07-10",
+    "question": "According to news reports on 2023-07-10, which entity best fills the blank in this statement?\nStanislav Rzhitsky, deputy chief in charge of military mobilization in the Russian city of [BLANK] and commander of the Russian Navy submarine B-265 ''Krasnodar'', is shot dead near the city's sports complex.",
+    "options": {
+      "A": "kidnap",
+      "B": "Fisheries and Agriculture Minister",
+      "C": "South Africa",
+      "D": "Krasnodar"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0135",
+    "date": "2023-07-10",
+    "question": "According to news reports on 2023-07-10, which entity best fills the blank in this statement?\n[BLANK] strike a residential area in Orikhiv, Zaporizhzhia Oblast, killing seven civilians and injuring 11 others, according to Governor Yuriy Malashko.",
+    "options": {
+      "A": "Journalists killed in the Israel\u2013Hamas war",
+      "B": "Poland",
+      "C": "Islamic State-KP",
+      "D": "Russian forces"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0157",
+    "date": "2023-07-10",
+    "question": "According to news reports on 2023-07-10, which entity best fills the blank in this statement?\n[BLANK]'s Maritime Safety and Rescue Society rescues 86 people from a pirogue off the Canary Islands after human rights defender Helena Maleno reports that three boats carrying around 300 people from Senegal have gone missing since June.",
+    "options": {
+      "A": "Cambodian People's Party",
+      "B": "Spain",
+      "C": "Uzbek authorities",
+      "D": "Islamic State-KP"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0010",
+    "date": "2023-07-11",
+    "question": "According to news reports on 2023-07-11, which entity best fills the blank in this statement?\nThe [BLANK] releases Australian democracy activist Chau Van Kham from a 12-year prison sentence on terrorism charges following an appeal by Australian prime minister Anthony Albanese.",
+    "options": {
+      "A": "arson",
+      "B": "Vietnamese government",
+      "C": "Burevestnik",
+      "D": "Cambodian People's Party"
+    },
+    "answer": "B",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0003",
+    "date": "2023-07-12",
+    "question": "According to news reports on 2023-07-12, which entity best fills the blank in this statement?\nThe United States imposes sanctions on [BLANK], a top Serbian official considered \"Moscow's man\".",
+    "options": {
+      "A": "Hezbollah",
+      "B": "Aleksandar Vulin",
+      "C": "car bomb",
+      "D": "Houthi"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0005",
+    "date": "2023-07-12",
+    "question": "According to news reports on 2023-07-12, which entity best fills the blank in this statement?\nAt the [BLANK] in Vilnius, Lithuania, G7 officials announce that they have unveiled an international framework for Ukraine\u2019s long-term security in a effort to boost their defense against Russia and deter them from any future aggression. The measures will include bilateral talks, military hardware, training, intelligence-sharing, and other plans to rebuild the country\u2019s economy.",
+    "options": {
+      "A": "NATO summit",
+      "B": "Russian President",
+      "C": "USS ''Kentucky''",
+      "D": "Kostiantynivka"
+    },
+    "answer": "A",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0145",
+    "date": "2023-07-12",
+    "question": "According to news reports on 2023-07-12, which entity best fills the blank in this statement?\n[BLANK] announces the imposition of a IDR150,000 (US$10) tourist tax for foreign visitors from 2024, aiming to preserve the island's culture and environment.",
+    "options": {
+      "A": "Bali",
+      "B": "Chile",
+      "C": "Mark Rutte",
+      "D": "cruise missile"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0167",
+    "date": "2023-07-12",
+    "question": "According to news reports on 2023-07-12, which entity best fills the blank in this statement?\n[BLANK] fires a Hwasong-18 intercontinental ballistic missile into waters near Japan. This comes a day after North Korea threatened the United States, claiming that an American spy plane entered the country's exclusive economic zone multiple times on Monday.",
+    "options": {
+      "A": "Oxfam",
+      "B": "mortar",
+      "C": "peacekeepers",
+      "D": "North Korea"
+    },
+    "answer": "D",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0176",
+    "date": "2023-07-14",
+    "question": "According to news reports on 2023-07-14, which entity best fills the blank in this statement?\nA suspect in the [BLANK] serial murders is arrested in Massapequa Park, New York, United States.",
+    "options": {
+      "A": "Turkish Air Force",
+      "B": "Long Island",
+      "C": "Palestinian Telecommunications Company",
+      "D": "sexual assault"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0020",
+    "date": "2023-07-15",
+    "question": "According to news reports on 2023-07-15, which entity best fills the blank in this statement?\nIn [BLANK], Mark\u00e9ta Vondrou\u0161ov\u00e1 of the Czech Republic defeats Ons Jabeur of Tunisia in the final, 6\u20134, 6\u20134 to win the women's singles title at the 2023 Wimbledon Championships, becoming the first unseeded player in history to win the Wimbledon title.",
+    "options": {
+      "A": "tennis",
+      "B": "cruise missile",
+      "C": "L\u00fcliang",
+      "D": "Morality Police"
+    },
+    "answer": "A",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0079",
+    "date": "2023-07-15",
+    "question": "According to news reports on 2023-07-15, which entity best fills the blank in this statement?\n[BLANK] announces that it will investigate whether the North Korean Hwasong-18 missile landed in the country's exclusive economic zone.",
+    "options": {
+      "A": "Russia",
+      "B": "Typhoon Mawar",
+      "C": "Israeli embassy",
+      "D": "Russian"
+    },
+    "answer": "A",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0109",
+    "date": "2023-07-16",
+    "question": "According to news reports on 2023-07-16, which entity best fills the blank in this statement?\nIranian [BLANK] resume patrols to enforce hijab compliance.",
+    "options": {
+      "A": "Looter",
+      "B": "Morality Police",
+      "C": "Writers Guild of America",
+      "D": "rear-end collision"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0060",
+    "date": "2023-07-17",
+    "question": "According to news reports on 2023-07-17, which entity best fills the blank in this statement?\nThe agreement to allow safe passage of grain exports from [BLANK] ports, in effect since July 2022, expires following Russia's refusal to renew the deal.",
+    "options": {
+      "A": "Ukrainian",
+      "B": "vote of no confidence",
+      "C": "tennis",
+      "D": "explosion"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0029",
+    "date": "2023-07-18",
+    "question": "According to news reports on 2023-07-18, which entity best fills the blank in this statement?\nThe [BLANK] is deployed to Busan, South Korea, marking the first time that a nuclear-capable missile submarine has been deployed to the region since 1981.",
+    "options": {
+      "A": "Gaza Strip",
+      "B": "West Bank",
+      "C": "USS ''Kentucky''",
+      "D": "Accession of Ukraine to the European Union"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0110",
+    "date": "2023-07-18",
+    "question": "According to news reports on 2023-07-18, which entity best fills the blank in this statement?\nThe Appeals Chamber of the [BLANK] rejects the appeal of the Philippine government against the resumption of the investigation of the war on drugs under the presidency of Rodrigo Duterte.",
+    "options": {
+      "A": "Yuval",
+      "B": "Iranian Foreign Minister",
+      "C": "Pharr\u2013Reynosa International Bridge",
+      "D": "International Criminal Court"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0206",
+    "date": "2023-07-18",
+    "question": "According to news reports on 2023-07-18, which entity best fills the blank in this statement?\nAn [BLANK] facing disciplinary action flees across the inter-Korean border into North Korea and is believed to be in North Korean custody.",
+    "options": {
+      "A": "Cambodian People's Party",
+      "B": "United States invasion of Afghanistan",
+      "C": "Sweden\u2013NATO relations",
+      "D": "American soldier"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0156",
+    "date": "2023-07-19",
+    "question": "According to news reports on 2023-07-19, which entity best fills the blank in this statement?\nAt least 12 people are injured in a night-time [BLANK] missile attack on Odesa, Ukraine.",
+    "options": {
+      "A": "Oxfam",
+      "B": "Russian",
+      "C": "Writers Guild of America",
+      "D": "Algerian foreign ministry"
+    },
+    "answer": "B",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0043",
+    "date": "2023-07-20",
+    "question": "According to news reports on 2023-07-20, which entity best fills the blank in this statement?\n[BLANK]'s government announces the first community outbreak of COVID-19 on Fakaofo, the last of country's three atolls to report cases of the virus, as the number of COVID-19 cases exceeds fifty patients.",
+    "options": {
+      "A": "Turkmenistan Airlines",
+      "B": "vote of no confidence",
+      "C": "Kostiantynivka",
+      "D": "Tokelau"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0061",
+    "date": "2023-07-20",
+    "question": "According to news reports on 2023-07-20, which entity best fills the blank in this statement?\nTwo policemen are killed and two more injured during a shooting by [BLANK] gunmen at a checkpoint in Peshawar, Khyber Pakhtunkhwa, Pakistan.",
+    "options": {
+      "A": "Pakistani Taliban",
+      "B": "Sudanese Armed Forces",
+      "C": "North Korea",
+      "D": "soldiers"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0198",
+    "date": "2023-07-20",
+    "question": "According to news reports on 2023-07-20, which entity best fills the blank in this statement?\nA video of two women being paraded naked on the streets and subjected to blatant acts of [BLANK] and gang rape by a heavily armed mob in Manipur goes viral, triggering outrage across the country. According to reports, the incident happened on 4 May.",
+    "options": {
+      "A": "Khartoum",
+      "B": "European Central Bank",
+      "C": "Mexico",
+      "D": "sexual assault"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0212",
+    "date": "2023-07-20",
+    "question": "According to news reports on 2023-07-20, which entity best fills the blank in this statement?\n[BLANK] and Iran sign a memorandum of understanding in Tehran, Iran, with both countries vowing to strengthen defence and security cooperation.",
+    "options": {
+      "A": "Bolivia",
+      "B": "Federal prosecution of Donald Trump",
+      "C": "cruise missile",
+      "D": "wildfire"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0059",
+    "date": "2023-07-21",
+    "question": "According to news reports on 2023-07-21, which entity best fills the blank in this statement?\nA [BLANK] employee is killed by unknown assailants in Taiz, Yemen, with security forces launching a pursuit of the individuals responsible.",
+    "options": {
+      "A": "Kherson",
+      "B": "Middle Eastern crisis (2023\u2013present)",
+      "C": "World Food Programme",
+      "D": "Typhoon Mawar"
+    },
+    "answer": "C",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0168",
+    "date": "2023-07-21",
+    "question": "According to news reports on 2023-07-21, which entity best fills the blank in this statement?\nThe Russian Armed Forces strike a building in [BLANK], killing two civilians.",
+    "options": {
+      "A": "Mykolaiv",
+      "B": "Philippines",
+      "C": "Greeks",
+      "D": "Hawaiian Electric Industries"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0035",
+    "date": "2023-07-22",
+    "question": "According to news reports on 2023-07-22, which entity best fills the blank in this statement?\nProtests in [BLANK], Denmark, involving Quran desecration, responding to similar protests in Sweden, trigger unrest in Iraq, leading to an attempted breach of Baghdad's Green Zone and armed attacks on Danish Refugee Council facilities in Basra.",
+    "options": {
+      "A": "Copenhagen",
+      "B": "Belgorod Governor",
+      "C": "Tripoli",
+      "D": "economy of New Zealand"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0083",
+    "date": "2023-07-22",
+    "question": "According to news reports on 2023-07-22, which entity best fills the blank in this statement?\nThe [BLANK] cancels a music festival in Sepang, Selangor, after Matty Healy, the lead vocalist of English band the 1975, openly criticized the country's anti-LGBT laws and kissed his male bandmate on stage.",
+    "options": {
+      "A": "open fire",
+      "B": "Tripoli",
+      "C": "Russian forces",
+      "D": "Ministry of Communications and Digital"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0025",
+    "date": "2023-07-23",
+    "question": "According to news reports on 2023-07-23, which entity best fills the blank in this statement?\n[BLANK]'s People's Party wins the election, but falls short of a clear majority, while Prime Minister Pedro S\u00e1nchez's Socialist Workers' Party holds slightly more seats with its allies despite finishing second, thus resulting in a hung parliament.",
+    "options": {
+      "A": "athletics",
+      "B": "Cameroon",
+      "C": "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+      "D": "Association of National Olympic Committees"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0069",
+    "date": "2023-07-23",
+    "question": "According to news reports on 2023-07-23, which entity best fills the blank in this statement?\nA pregnant woman is killed and four others are injured in a mass shooting in a city park of [BLANK], Texas, United States. Two suspects are arrested.",
+    "options": {
+      "A": "Mykolaiv",
+      "B": "Blue Lagoon",
+      "C": "Houston",
+      "D": "Bernardo Ar\u00e9valo"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0076",
+    "date": "2023-07-23",
+    "question": "According to news reports on 2023-07-23, which entity best fills the blank in this statement?\nThe ruling [BLANK], led by Prime Minister Hun Sen, claims a landslide victory in the election, winning 120 out of 125 seats according to unofficial results, despite criticism over alleged suppression of the opposition.",
+    "options": {
+      "A": "United States Coast Guard",
+      "B": "National Assembly",
+      "C": "Cambodian People's Party",
+      "D": "Tokelau"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0087",
+    "date": "2023-07-24",
+    "question": "According to news reports on 2023-07-24, which entity best fills the blank in this statement?\n[BLANK] attack Odesa Oblast with drones, destroying grain warehouses at the Reni Commercial Seaport and injuring seven civilians.",
+    "options": {
+      "A": "2024 Iowa Republican presidential caucuses",
+      "B": "American swimmer",
+      "C": "United Nations",
+      "D": "Russian forces"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0192",
+    "date": "2023-07-24",
+    "question": "According to news reports on 2023-07-24, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Russian strikes against Ukrainian infrastructure",
+      "B": "mass shooting",
+      "C": "Blue Lagoon",
+      "D": "Bali"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0057",
+    "date": "2023-07-25",
+    "question": "According to news reports on 2023-07-25, which entity best fills the blank in this statement?\nLarge clashes with [BLANK] and artillery in the Ombada district in northern Khartoum leave over 16 people dead, including 2 confirmed children.",
+    "options": {
+      "A": "United Kingdom",
+      "B": "Dhaka",
+      "C": "presumed dead",
+      "D": "air raids"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0153",
+    "date": "2023-07-26",
+    "question": "According to news reports on 2023-07-26, which entity best fills the blank in this statement?\nThe [BLANK] holds a congressional hearing on unidentified aerial phenomena, amid claims from former intelligence official David Grusch that the U.S. military is operating a clandestine retrieval program for crashed \"non-human\" craft.",
+    "options": {
+      "A": "United States House Committee on Oversight and Accountability",
+      "B": "Anti-war",
+      "C": "wildfire",
+      "D": "Pakistani Taliban"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0158",
+    "date": "2023-07-26",
+    "question": "According to news reports on 2023-07-26, which entity best fills the blank in this statement?\n[BLANK] from Niger's presidential guard detain President Mohamed Bazoum inside the Presidential Palace in Niamey. Entrances to government ministries are also blocked.",
+    "options": {
+      "A": "American swimmer",
+      "B": "Justin Trudeau",
+      "C": "economy of New Zealand",
+      "D": "Soldiers"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0160",
+    "date": "2023-07-26",
+    "question": "According to news reports on 2023-07-26, which entity best fills the blank in this statement?\nAt least six people are killed and thousands of others are displaced as [BLANK] makes landfall in Luzon, Philippines.",
+    "options": {
+      "A": "Typhoon Doksuri (Egay)",
+      "B": "Philippine",
+      "C": "parliament of Zimbabwe",
+      "D": "Red Crescent Society"
+    },
+    "answer": "A",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0199",
+    "date": "2023-07-26",
+    "question": "According to news reports on 2023-07-26, which entity best fills the blank in this statement?\n[BLANK] Hun Sen announces his upcoming resignation after four decades in power, with his son Hun Manet succeeding him.",
+    "options": {
+      "A": "Ukrainian officials",
+      "B": "parliament of Uganda",
+      "C": "Board of Directors",
+      "D": "Cambodian prime minister"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0093",
+    "date": "2023-07-27",
+    "question": "According to news reports on 2023-07-27, which entity best fills the blank in this statement?\nSix people are killed and 20 others are injured during a bombing at the [BLANK]'s Shi'ite mosque in Rif Dimashq Governorate, Syria.",
+    "options": {
+      "A": "Sayyidah Zaynab",
+      "B": "Ukrainian officials",
+      "C": "mobile carrier",
+      "D": "Attacks in Russia during the Russian invasion of Ukraine"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0126",
+    "date": "2023-07-28",
+    "question": "According to news reports on 2023-07-28, which entity best fills the blank in this statement?\nNine [BLANK]s are injured in a Russian missile strike on a residential complex and a nearby building of the SBU in Dnipro.",
+    "options": {
+      "A": "Artsakh",
+      "B": "Al-Shabaab",
+      "C": "pilgrim",
+      "D": "civilian"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0111",
+    "date": "2023-07-29",
+    "question": "According to news reports on 2023-07-29, which entity best fills the blank in this statement?\n[BLANK] Alfred Mutua announces the country's plan to deploy 1,000 police officers to Haiti, leading a multinational force to assist local law enforcement and restoring stability, pending mandate approval from the United Nations Security Council and local authorities.",
+    "options": {
+      "A": "forensics",
+      "B": "Kharkiv",
+      "C": "Ta'ang National Liberation Army",
+      "D": "Kenyan foreign minister"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0149",
+    "date": "2023-07-29",
+    "question": "According to news reports on 2023-07-29, which entity best fills the blank in this statement?\n[BLANK] Katie Ledecky surpasses fellow American Michael Phelps for the most individual gold medals at the World Aquatics Championships after winning the gold in the women's 800 meter freestyle competition of the 2023 edition in Fukuoka, Japan.",
+    "options": {
+      "A": "American swimmer",
+      "B": "suicide bombing",
+      "C": "flood",
+      "D": "car crash"
+    },
+    "answer": "A",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0107",
+    "date": "2023-07-30",
+    "question": "According to news reports on 2023-07-30, which entity best fills the blank in this statement?\n[BLANK] activists protest in Belgrade, Serbia, after two prominent anti-war and anti-Putin activists experienced problems trying to enter the country.",
+    "options": {
+      "A": "Kremlin",
+      "B": "Baghdad",
+      "C": "Anti-war",
+      "D": "Casey Phair"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0204",
+    "date": "2023-07-30",
+    "question": "According to news reports on 2023-07-30, which entity best fills the blank in this statement?\n[BLANK] announce that a peace summit, aimed at addressing the invasion, will take place in Jeddah, Saudi Arabia, in early August with representatives from 30 countries expected to attend.",
+    "options": {
+      "A": "Ecuador",
+      "B": "Ukrainian officials",
+      "C": "metro",
+      "D": "grenade"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0018",
+    "date": "2023-07-31",
+    "question": "According to news reports on 2023-07-31, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "hostage",
+      "B": "Rohingya refugees",
+      "C": "Attacks on civilians in the Russian invasion of Ukraine",
+      "D": "golf"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0047",
+    "date": "2023-07-31",
+    "question": "According to news reports on 2023-07-31, which entity best fills the blank in this statement?\nAt least six [BLANK]s are killed and 75 others are injured in a Russian ballistic missile strike on an apartment complex and a university building in Kryvyi Rih, Dnipropetrovsk Oblast.",
+    "options": {
+      "A": "Morality Police",
+      "B": "Tripoli",
+      "C": "China",
+      "D": "civilian"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0073",
+    "date": "2023-08-01",
+    "question": "According to news reports on 2023-08-01, which entity best fills the blank in this statement?\n[BLANK] announces that they will temporarily suspend flights from Ashgabat to Moscow following the drone attacks. Flights will instead travel to Kazan, located in Tatarstan.",
+    "options": {
+      "A": "Montana Governor",
+      "B": "Amnesty International",
+      "C": "Palau",
+      "D": "Turkmenistan Airlines"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0119",
+    "date": "2023-08-01",
+    "question": "According to news reports on 2023-08-01, which entity best fills the blank in this statement?\nA deputy [BLANK] is killed and another is injured when Hindus storm a mosque in Gurgaon, Haryana, India, as a spillover of yesterday's intercommunal violence in the neighboring Nuh district.",
+    "options": {
+      "A": "imam",
+      "B": "Stepanakert",
+      "C": "mobile carrier",
+      "D": "al-Shabaab"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0154",
+    "date": "2023-08-01",
+    "question": "According to news reports on 2023-08-01, which entity best fills the blank in this statement?\n[BLANK]s begin in Kadugli, South Kordofan, Sudan, against the ongoing clashes in the city, with protesters also denouncing the war and the country's violations against women.",
+    "options": {
+      "A": "United States invasion of Afghanistan",
+      "B": "Protest",
+      "C": "Sumy",
+      "D": "presumed dead"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0161",
+    "date": "2023-08-01",
+    "question": "According to news reports on 2023-08-01, which entity best fills the blank in this statement?\n[BLANK] and Russia sign a memorandum of cooperation on sharing nuclear technology for peaceful purposes at the Russia-Africa Economic and Humanitarian Forum in Saint Petersburg, Russia.",
+    "options": {
+      "A": "Attacks on U.S. bases in Iraq, Jordan, and Syria",
+      "B": "Houthi",
+      "C": "Burundi",
+      "D": "MPs"
+    },
+    "answer": "C",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0080",
+    "date": "2023-08-03",
+    "question": "According to news reports on 2023-08-03, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Attacks on civilians in the Russian invasion of Ukraine",
+      "B": "Tripoli",
+      "C": "American soldier",
+      "D": "Tchiani"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0201",
+    "date": "2023-08-03",
+    "question": "According to news reports on 2023-08-03, which entity best fills the blank in this statement?\n[BLANK] clash with ethnic Amhara Fano militiamen in several areas across the Amhara Region, with Fano seizing several airports and major cities.",
+    "options": {
+      "A": "Ethiopian soldiers",
+      "B": "20 Days in Mariupol",
+      "C": "Ministry of Education",
+      "D": "Hamas"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0058",
+    "date": "2023-08-07",
+    "question": "According to news reports on 2023-08-07, which entity best fills the blank in this statement?\n[BLANK]\u2013Polish sprinter Krystsina Tsimanouskaya is cleared to represent Poland at the World Championships after being removed from the Tokyo Olympics by the Belarus Olympic Committee.",
+    "options": {
+      "A": "Israeli special forces",
+      "B": "arson",
+      "C": "Belarusian",
+      "D": "2023 Azerbaijani offensive in Nagorno-Karabakh"
+    },
+    "answer": "C",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0063",
+    "date": "2023-08-08",
+    "question": "According to news reports on 2023-08-08, which entity best fills the blank in this statement?\nClashes occur in the Abrof neighborhood of [BLANK], Khartoum, Sudan, between the Rapid Support Forces and the Sudanese Armed Forces.",
+    "options": {
+      "A": "Omdurman",
+      "B": "Egyptian foreign ministry",
+      "C": "Journalists killed in the Israel\u2013Hamas war",
+      "D": "Kenya"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0105",
+    "date": "2023-08-08",
+    "question": "According to news reports on 2023-08-08, which entity best fills the blank in this statement?\nThe [BLANK]'s Copernicus Climate Change Service reports that July 2023 was the hottest July on record, while this year is the third-warmest year to date.",
+    "options": {
+      "A": "United States Central Command",
+      "B": "European Union",
+      "C": "Casey Phair",
+      "D": "arson"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0037",
+    "date": "2023-08-14",
+    "question": "According to news reports on 2023-08-14, which entity best fills the blank in this statement?\n[BLANK] launches an inquiry into British Army Training Unit Kenya, amid allegations of murder, sexual abuse, and damage to land near the base.",
+    "options": {
+      "A": "blow themselves up",
+      "B": "Poland",
+      "C": "grenade",
+      "D": "Kenya"
+    },
+    "answer": "D",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0041",
+    "date": "2023-08-14",
+    "question": "According to news reports on 2023-08-14, which entity best fills the blank in this statement?\n[BLANK] Ayesha Verrall announces New Zealand will end COVID-19 restrictions including mask mandates and 7-day quarantines.",
+    "options": {
+      "A": "protest",
+      "B": "Health Minister",
+      "C": "Cambodian People's Party",
+      "D": "China National Nuclear Corporation"
+    },
+    "answer": "B",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0122",
+    "date": "2023-08-14",
+    "question": "According to news reports on 2023-08-14, which entity best fills the blank in this statement?\nFormer [BLANK] Donald Trump and eighteen associates including former White House Chief of Staff Mark Meadows and former Justice Department official Jeffrey Clarkare indicted in Georgia by Fulton County District Attorney Fani Willis as part of an investigation into their alleged involvement in attempting to overturn the election results in the state.",
+    "options": {
+      "A": "Al-Shabaab",
+      "B": "UNRWA",
+      "C": "U.S. President",
+      "D": "Zaporizhzhia Nuclear Power Plant crisis"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0019",
+    "date": "2023-08-20",
+    "question": "According to news reports on 2023-08-20, which entity best fills the blank in this statement?\n[BLANK] defeats former first lady Sandra Torres by 59% to 36% in the presidential election run-off vote.",
+    "options": {
+      "A": "Government of Canada",
+      "B": "Bernardo Ar\u00e9valo",
+      "C": "Russian Interior Ministry",
+      "D": "Black Dog"
+    },
+    "answer": "B",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0091",
+    "date": "2023-08-20",
+    "question": "According to news reports on 2023-08-20, which entity best fills the blank in this statement?\nProtests begin in [BLANK] over the high inflation rate and deteriorating economic situation in the country amid a severe economic crisis.",
+    "options": {
+      "A": "Canada",
+      "B": "Gitanas Naus\u0117da",
+      "C": "Al-Suwayda",
+      "D": "protest"
+    },
+    "answer": "C",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0101",
+    "date": "2023-08-20",
+    "question": "According to news reports on 2023-08-20, which entity best fills the blank in this statement?\nEleven people are killed when a vehicle carrying workers hits a [BLANK] in North Waziristan, Khyber Pakhtunkhwa, Pakistan.",
+    "options": {
+      "A": "land mine",
+      "B": "Tatmadaw",
+      "C": "Russian military presence in Belarus",
+      "D": "tropical storm"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0121",
+    "date": "2023-08-20",
+    "question": "According to news reports on 2023-08-20, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Bolivia",
+      "B": "2023 North Waziristan landmine attack",
+      "C": "Fisheries and Agriculture Minister",
+      "D": "Russian strikes against Ukrainian infrastructure"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0127",
+    "date": "2023-08-20",
+    "question": "According to news reports on 2023-08-20, which entity best fills the blank in this statement?\nAt least 12 [BLANK] are killed by suspected jihadists in an ambush in Anzourou, Tillab\u00e9ri, Niger.",
+    "options": {
+      "A": "Vietnamese government",
+      "B": "Islamic State-KP",
+      "C": "soldiers",
+      "D": "rear-end collision"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0166",
+    "date": "2023-08-20",
+    "question": "According to news reports on 2023-08-20, which entity best fills the blank in this statement?\n[BLANK] defeats England 1\u20130 in the final match of the 2023 Women's World Cup, winning their first FIFA Women's World Cup championship.",
+    "options": {
+      "A": "Spain",
+      "B": "Philippine",
+      "C": "Syria",
+      "D": "Crimea"
+    },
+    "answer": "A",
+    "topic": "sports"
+  },
+  {
+    "id": "wiki-news-0040",
+    "date": "2023-08-26",
+    "question": "According to news reports on 2023-08-26, which entity best fills the blank in this statement?\nThe government imposes a nightly [BLANK] and suspends internet access following the closure of polls, citing the need to prevent violence and misinformation.",
+    "options": {
+      "A": "curfew",
+      "B": "stampede",
+      "C": "Maimbung",
+      "D": "imam"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0099",
+    "date": "2023-08-26",
+    "question": "According to news reports on 2023-08-26, which entity best fills the blank in this statement?\nThe [BLANK] of Belgorod Oblast says that Ukrainian shelling and usage of cluster munitions injured six civilians in Urazovo.",
+    "options": {
+      "A": "United Liberation Movement of Liberia for Democracy",
+      "B": "Riot",
+      "C": "governor",
+      "D": "Mauritanians"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0108",
+    "date": "2023-08-31",
+    "question": "According to news reports on 2023-08-31, which entity best fills the blank in this statement?\n[BLANK] leader Joe Biggs is sentenced to 17 years in federal prison after being convicted of seditious conspiracy in connection with the planning of the January 6 riot at the United States Capitol.",
+    "options": {
+      "A": "Proud Boys",
+      "B": "Dean Phillips 2024 presidential campaign",
+      "C": "Hawaiian Electric Industries",
+      "D": "Mexico"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0170",
+    "date": "2023-09-05",
+    "question": "According to news reports on 2023-09-05, which entity best fills the blank in this statement?\nThe [BLANK] says criminal proceedings have been initiated against a recruiting group primarily seeking to enlist Cuban citizens residing in Russia to fight for the country in Ukraine as mercenary activities are prohibited in Cuba, and reiterated that it was not part of the war.",
+    "options": {
+      "A": "chess",
+      "B": "U.S. Representative",
+      "C": "Cuban foreign ministry",
+      "D": "2023 Israeli invasion of the Gaza Strip"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0172",
+    "date": "2023-09-05",
+    "question": "According to news reports on 2023-09-05, which entity best fills the blank in this statement?\nShinji Aoba pleads guilty to [BLANK] and 36 murders for setting a fire at an animation studio in Kyoto, Japan, in July 2019.",
+    "options": {
+      "A": "state governor",
+      "B": "arson",
+      "C": "Israeli prime minister",
+      "D": "Hamas"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0180",
+    "date": "2023-09-05",
+    "question": "According to news reports on 2023-09-05, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Pakistani Taliban",
+      "B": "European Union",
+      "C": "Forl\u00ec\u2013Cesena",
+      "D": "Criminal proceedings in the January 6 United States Capitol attack"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0134",
+    "date": "2023-09-20",
+    "question": "According to news reports on 2023-09-20, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Supreme Electoral Tribunal",
+      "B": "2023 Azerbaijani offensive in Nagorno-Karabakh",
+      "C": "Savai\u02bbi",
+      "D": "U.S. Congressman"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0008",
+    "date": "2023-09-25",
+    "question": "According to news reports on 2023-09-25, which entity best fills the blank in this statement?\nThe mayor of [BLANK], Libya, Abdelmounem al-Ghaithi, and several other officials are detained over mismanagement and negligence accusations following the Derna dam collapse which killed over 5,000 people.",
+    "options": {
+      "A": "Burundi",
+      "B": "Tripoli",
+      "C": "UN High Commissioner for Human Rights",
+      "D": "Derna"
+    },
+    "answer": "D",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0015",
+    "date": "2023-09-25",
+    "question": "According to news reports on 2023-09-25, which entity best fills the blank in this statement?\n[BLANK] enter the village of Banjska, North Kosovo, with armored vehicles, a day after the village was attacked by gunmen.",
+    "options": {
+      "A": "Kosovo Police",
+      "B": "Typhoon Mawar",
+      "C": "Riot",
+      "D": "Ain al-Hilweh"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0130",
+    "date": "2023-09-25",
+    "question": "According to news reports on 2023-09-25, which entity best fills the blank in this statement?\nThe [BLANK] removes a series of buoys installed by China in the contested Scarborough Shoal in the South China Sea under orders of President Bongbong Marcos.",
+    "options": {
+      "A": "United Nations Office for the Coordination of Humanitarian Affairs",
+      "B": "Russian Interior Ministry",
+      "C": "Philippines",
+      "D": "Philippine Coast Guard"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0163",
+    "date": "2023-09-25",
+    "question": "According to news reports on 2023-09-25, which entity best fills the blank in this statement?\nSixty-eight people are killed and 290 others are injured by an explosion at a fuel warehouse near [BLANK], Artsakh.",
+    "options": {
+      "A": "Islamic State-KP",
+      "B": "Stepanakert",
+      "C": "Nikki Haley 2024 presidential campaign",
+      "D": "Hezbollah"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0104",
+    "date": "2023-09-30",
+    "question": "According to news reports on 2023-09-30, which entity best fills the blank in this statement?\n[BLANK] elect the 150 members of the National Council.",
+    "options": {
+      "A": "Slovaks",
+      "B": "Kostiantynivka",
+      "C": "Ain al-Hilweh",
+      "D": "Accession of Ukraine to the European Union"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0084",
+    "date": "2023-10-05",
+    "question": "According to news reports on 2023-10-05, which entity best fills the blank in this statement?\n[BLANK] says that Russia has attacked a store and cafe in Hroza, Kharkiv Oblast, with a ballistic missile, killing at least 51 civilians.",
+    "options": {
+      "A": "US Secretary of State",
+      "B": "Ukraine",
+      "C": "Attacks in Russia during the Russian invasion of Ukraine",
+      "D": "United States"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0118",
+    "date": "2023-10-05",
+    "question": "According to news reports on 2023-10-05, which entity best fills the blank in this statement?\nRussia announces the successful test of the [BLANK], a nuclear-powered and nuclear-capable cruise missile with a potential range of thousands of miles.",
+    "options": {
+      "A": "Elon Musk",
+      "B": "Hamas",
+      "C": "Assassination attempts on Volodymyr Zelenskyy",
+      "D": "Burevestnik"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0129",
+    "date": "2023-10-05",
+    "question": "According to news reports on 2023-10-05, which entity best fills the blank in this statement?\nAt least six people are killed and 38 others are injured during a series of airstrikes by the [BLANK] on Idlib.",
+    "options": {
+      "A": "Syrian Air Force",
+      "B": "Moldova",
+      "C": "Boucle du Mouhoun Region",
+      "D": "grenade"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0039",
+    "date": "2023-10-10",
+    "question": "According to news reports on 2023-10-10, which entity best fills the blank in this statement?\nThe [BLANK] calls for a humanitarian corridor into Gaza, after thirteen health facilities are damaged by Israeli attacks.",
+    "options": {
+      "A": "World Health Organization",
+      "B": "Nova Scotia",
+      "C": "suicide bombing",
+      "D": "state governor"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0064",
+    "date": "2023-10-10",
+    "question": "According to news reports on 2023-10-10, which entity best fills the blank in this statement?\nIsraeli airstrikes destroy a [BLANK] building in Gaza City, causing widespread communications and internet outages.",
+    "options": {
+      "A": "Palestinian Telecommunications Company",
+      "B": "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+      "C": "flooding",
+      "D": "France"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0062",
+    "date": "2023-10-16",
+    "question": "According to news reports on 2023-10-16, which entity best fills the blank in this statement?\n[BLANK] says that hospitals in Gaza are currently facing a \"catastrophic\" shortage of medical supplies with the United Nations also reporting that at least four hospitals in northern Gaza are no longer operational because of Israeli bombings.",
+    "options": {
+      "A": "Medical Aid for Palestinians",
+      "B": "Bar'am",
+      "C": "Mark Rutte",
+      "D": "European Union"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0088",
+    "date": "2023-10-16",
+    "question": "According to news reports on 2023-10-16, which entity best fills the blank in this statement?\nPalestinians [BLANK] in several cities across the West Bank calling for an end to Israeli attacks on Gaza.",
+    "options": {
+      "A": "ice hockey",
+      "B": "Iran",
+      "C": "protest",
+      "D": "Venezuelan President"
+    },
+    "answer": "C",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0148",
+    "date": "2023-10-16",
+    "question": "According to news reports on 2023-10-16, which entity best fills the blank in this statement?\nMuhammad al-Najjar, a member of the [BLANK] of the national authority for the documentation and prosecution of crimes committed by the Israeli government, is killed in an Israeli airstrike, along with 16 members of his family.",
+    "options": {
+      "A": "Islamic State-KP",
+      "B": "Board of Directors",
+      "C": "West Bank",
+      "D": "Kenyan foreign minister"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0117",
+    "date": "2023-10-26",
+    "question": "According to news reports on 2023-10-26, which entity best fills the blank in this statement?\nThe death toll in Gaza increases to more than 7,000 people with an estimated 1.4 million people [BLANK].",
+    "options": {
+      "A": "World Food Programme",
+      "B": "India",
+      "C": "internally displaced",
+      "D": "Turkmenistan Airlines"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0186",
+    "date": "2023-10-26",
+    "question": "According to news reports on 2023-10-26, which entity best fills the blank in this statement?\n[BLANK] says that Israel is using starvation as a \"weapon of war\" as the blockade of Gaza continues.",
+    "options": {
+      "A": "wildfire",
+      "B": "Oxfam",
+      "C": "Belgorod Governor",
+      "D": "Philippine"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0032",
+    "date": "2023-10-31",
+    "question": "According to news reports on 2023-10-31, which entity best fills the blank in this statement?\nHundreds of demonstrators gather in front of the [BLANK] in Manila, Philippines, to denounce the Israeli attacks on the Gaza Strip.",
+    "options": {
+      "A": "same-sex marriage",
+      "B": "hostage",
+      "C": "Israeli embassy",
+      "D": "Rochdale"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0072",
+    "date": "2023-10-31",
+    "question": "According to news reports on 2023-10-31, which entity best fills the blank in this statement?\n[BLANK] launches airstrikes on Crimea, destroying a Russian S-300 missile system near Yevpatoria.",
+    "options": {
+      "A": "Ukraine",
+      "B": "grenade",
+      "C": "taxi",
+      "D": "Luca Brecel"
+    },
+    "answer": "A",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0065",
+    "date": "2023-11-06",
+    "question": "According to news reports on 2023-11-06, which entity best fills the blank in this statement?\nThe [BLANK] urges the State Administration Council of Myanmar to cooperate with Chinese officials in protecting Chinese border villages, two days after a shell fired by the Tatmadaw kills one and wounds several in China.",
+    "options": {
+      "A": "Ministry of Foreign Affairs of the People's Republic of China",
+      "B": "Armenia",
+      "C": "Israeli prime minister",
+      "D": "Kenya"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0140",
+    "date": "2023-11-06",
+    "question": "According to news reports on 2023-11-06, which entity best fills the blank in this statement?\n[BLANK], Israel\u2013Hezbollah conflict (2023\u2013present)",
+    "options": {
+      "A": "Attacks in Russia during the Russian invasion of Ukraine",
+      "B": "Egyptian foreign ministry",
+      "C": "Burkinab\u00e9 soldier",
+      "D": "2024 Iran\u2013Israel conflict"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0150",
+    "date": "2023-11-06",
+    "question": "According to news reports on 2023-11-06, which entity best fills the blank in this statement?\nThe [BLANK] expresses concern about heavy fighting in Shan State, noting that over 30,000 people have been displaced thus far.",
+    "options": {
+      "A": "United Nations",
+      "B": "governor",
+      "C": "Ain al-Hilweh",
+      "D": "Rapid Support Forces"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0113",
+    "date": "2023-11-11",
+    "question": "According to news reports on 2023-11-11, which entity best fills the blank in this statement?\nThe [BLANK] is closed by Icelandic authorities as a volcanic eruption on the Reykjanes Peninsula is expected in the \"coming hours\".",
+    "options": {
+      "A": "Ecuador",
+      "B": "Birmingham City Council",
+      "C": "Writers Guild of America",
+      "D": "Blue Lagoon"
+    },
+    "answer": "D",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0094",
+    "date": "2023-11-16",
+    "question": "According to news reports on 2023-11-16, which entity best fills the blank in this statement?\n[BLANK], Sweden\u2013Turkey relations",
+    "options": {
+      "A": "31 October 2023 Jabalia refugee camp airstrike",
+      "B": "Sweden\u2013NATO relations",
+      "C": "shot down",
+      "D": "Antonov An-26"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0023",
+    "date": "2023-11-21",
+    "question": "According to news reports on 2023-11-21, which entity best fills the blank in this statement?\nThe [BLANK] assaults Pauktaw, Rakhine State, for a second time. The town has switched hands twice between the rebel group and the military.",
+    "options": {
+      "A": "Kremlin",
+      "B": "Ministry of Education",
+      "C": "Boucle du Mouhoun Region",
+      "D": "Arakan Army"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0139",
+    "date": "2023-11-21",
+    "question": "According to news reports on 2023-11-21, which entity best fills the blank in this statement?\n[BLANK] militants; three pro-Hezbollah Al Mayadeen television station journalists and a civilian are killed and a civilian is injured by Israeli shelling and airstrikes in Chaaitiyeh, Khiam, Kafr Kila and Tayr Harfa, southern Lebanon.",
+    "options": {
+      "A": "Al-Qassam Brigade",
+      "B": "Russian strikes against infrastructure",
+      "C": "United Nations Office for the Coordination of Humanitarian Affairs",
+      "D": "sexual assault"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0146",
+    "date": "2023-11-21",
+    "question": "According to news reports on 2023-11-21, which entity best fills the blank in this statement?\n[BLANK] Foreign Minister Christophe Lutundula announces that the DRC has signed agreements for the complete withdrawal of the MONUSCO United Nations peacekeeping force. The UN has around 15,000 peacekeepers stationed in the Central African country.",
+    "options": {
+      "A": "Luca Brecel",
+      "B": "Hawaiian Electric Industries",
+      "C": "20 Days in Mariupol",
+      "D": "Congolese"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0177",
+    "date": "2023-11-21",
+    "question": "According to news reports on 2023-11-21, which entity best fills the blank in this statement?\nThirty-seven people are killed and several others are injured in a [BLANK] during a military recruitment event at a stadium in Brazzaville, Republic of the Congo.",
+    "options": {
+      "A": "Black Dog",
+      "B": "Houston",
+      "C": "stampede",
+      "D": "Oppenheimer"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0210",
+    "date": "2023-12-14",
+    "question": "According to news reports on 2023-12-14, which entity best fills the blank in this statement?\nAt least 515 people are injured in a [BLANK] between railroad cars on the Changping line of the Beijing Subway in China near the Xi'erqi station amid snowfall.",
+    "options": {
+      "A": "Kostiantynivka",
+      "B": "Nigerian forces",
+      "C": "East Jerusalem",
+      "D": "rear-end collision"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0030",
+    "date": "2023-12-20",
+    "question": "According to news reports on 2023-12-20, which entity best fills the blank in this statement?\nPro-Palestine protesters vandalize the stairs of the [BLANK] in Washington, D.C. with graffiti reading \"Free Gaza\".",
+    "options": {
+      "A": "Copenhagen",
+      "B": "Nikki Haley 2024 presidential campaign",
+      "C": "northern Israel",
+      "D": "Lincoln Memorial"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0137",
+    "date": "2023-12-20",
+    "question": "According to news reports on 2023-12-20, which entity best fills the blank in this statement?\nA [BLANK] jury convicts two teenagers of murdering trans girl Brianna Ghey in Warrington, Cheshire, England.",
+    "options": {
+      "A": "Madagascar President",
+      "B": "Anti-war",
+      "C": "Manchester Crown Court",
+      "D": "Casey Phair"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0200",
+    "date": "2023-12-20",
+    "question": "According to news reports on 2023-12-20, which entity best fills the blank in this statement?\nVoters in the [BLANK] elect their president, members of the National Assembly, provincial assemblies, and commune councils. Voting is extended until December 21.",
+    "options": {
+      "A": "Federal prosecution of Donald Trump",
+      "B": "Russian strikes against infrastructure",
+      "C": "Democratic Republic of the Congo",
+      "D": "Nayib Bukele"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0053",
+    "date": "2023-12-27",
+    "question": "According to news reports on 2023-12-27, which entity best fills the blank in this statement?\nA [BLANK] report by Rio de Janeiro's Forensic Medical Institute in Brazil finds that hyperthermia led to cardiorespiratory arrest that killed Swiftie Benevides. It says she did not have preexisting conditions or substance abuse that could have led to her death.",
+    "options": {
+      "A": "Bolivia",
+      "B": "golf",
+      "C": "forensics",
+      "D": "IDF"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0181",
+    "date": "2023-12-27",
+    "question": "According to news reports on 2023-12-27, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Krasnodar",
+      "B": "Russian strikes against infrastructure",
+      "C": "Kenya",
+      "D": "Net migration"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0038",
+    "date": "2024-01-03",
+    "question": "According to news reports on 2024-01-03, which entity best fills the blank in this statement?\n[BLANK] denies access to the Black Sea for two Royal Navy minehunters saying their transit of the Bosporus and Dardanelles straits would be in violation of the Montreux Convention of 1936.",
+    "options": {
+      "A": "U.S. Representative",
+      "B": "Turkey",
+      "C": "stampede",
+      "D": "shooting spree"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0144",
+    "date": "2024-01-03",
+    "question": "According to news reports on 2024-01-03, which entity best fills the blank in this statement?\n[BLANK] and Russia complete their first prisoner exchange in nearly five months, releasing over 200 people on each side, facilitated by mediation from the United Arab Emirates.",
+    "options": {
+      "A": "Ukraine",
+      "B": "Australian state",
+      "C": "Cambodian People's Party",
+      "D": "World Food Programme"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0165",
+    "date": "2024-01-03",
+    "question": "According to news reports on 2024-01-03, which entity best fills the blank in this statement?\nThe [BLANK] claimed to have taken control of the town of Mongngaw in Kyaukme Township in Shan State.",
+    "options": {
+      "A": "Senegal",
+      "B": "Ta'ang National Liberation Army",
+      "C": "Journalists killed in the Israel\u2013Hamas war",
+      "D": "Oppenheimer"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0078",
+    "date": "2024-01-08",
+    "question": "According to news reports on 2024-01-08, which entity best fills the blank in this statement?\n[BLANK] launches a massive missile and drone attack across Ukraine, killing at least four people and injuring 38 others in Dnipropetrovsk, Kharkiv, Khmelnytskyi and Zaporizhzhia Oblasts. Ukraine says that it shot down all eight drones and 18 of 51 missiles.",
+    "options": {
+      "A": "Cambodian prime minister",
+      "B": "Senegal",
+      "C": "Russia",
+      "D": "association football"
+    },
+    "answer": "C",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0115",
+    "date": "2024-01-08",
+    "question": "According to news reports on 2024-01-08, which entity best fills the blank in this statement?\n[BLANK], the deputy commander of Hezbollah's Redwan Force, and a militant is assassinated in an Israeli airstrike in Majdel Selm, Lebanon.",
+    "options": {
+      "A": "Wissam al-Tawil",
+      "B": "taxi",
+      "C": "Democratic Republic of the Congo",
+      "D": "Philippines"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0048",
+    "date": "2024-01-15",
+    "question": "According to news reports on 2024-01-15, which entity best fills the blank in this statement?\nUkraine claims it [BLANK] a Russian Beriev A-50 airborne early warning and control aircraft and an Ilyushin Il-22 airborne control center over the Sea of Azov.",
+    "options": {
+      "A": "IDF",
+      "B": "Oppenheimer",
+      "C": "Ulu Tiram",
+      "D": "shot down"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0089",
+    "date": "2024-01-15",
+    "question": "According to news reports on 2024-01-15, which entity best fills the blank in this statement?\n[BLANK] militants launch a missile at the Marshall Islands-flagged, United States-owned and operated bulk carrier ''Gibraltar Eagle'' in the Gulf of Aden.",
+    "options": {
+      "A": "Colombia",
+      "B": "Rapid Support Forces",
+      "C": "Cotabato",
+      "D": "Houthi"
+    },
+    "answer": "D",
+    "topic": "science"
+  },
+  {
+    "id": "wiki-news-0027",
+    "date": "2024-02-05",
+    "question": "According to news reports on 2024-02-05, which entity best fills the blank in this statement?\nFour [BLANK] and bus drivers are killed during coordinated shootings in Chilpancingo, Mexico.",
+    "options": {
+      "A": "car crash",
+      "B": "taxi",
+      "C": "Palestinians",
+      "D": "China"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0067",
+    "date": "2024-02-15",
+    "question": "According to news reports on 2024-02-15, which entity best fills the blank in this statement?\n[BLANK] raid Nasser Hospital in Khan Yunis, the largest hospital still functioning in the Gaza Strip. At least one person is killed and eight others are reportedly injured during the raid.",
+    "options": {
+      "A": "Nauru",
+      "B": "governor",
+      "C": "Legislative Assembly",
+      "D": "Israeli special forces"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0085",
+    "date": "2024-02-15",
+    "question": "According to news reports on 2024-02-15, which entity best fills the blank in this statement?\nThe [BLANK] enters a technical recession, as a report issued by the Office for National Statistics stated that the economy shrunk in two consecutive quarters amid a slowdown in consumer spending.",
+    "options": {
+      "A": "Dean Phillips 2024 presidential campaign",
+      "B": "United Kingdom",
+      "C": "Philippe Lazzarini",
+      "D": "Sumy"
+    },
+    "answer": "B",
+    "topic": "economy"
+  },
+  {
+    "id": "wiki-news-0066",
+    "date": "2024-02-22",
+    "question": "According to news reports on 2024-02-22, which entity best fills the blank in this statement?\nA Hezbollah rocket strikes [BLANK], northern Israel.",
+    "options": {
+      "A": "Yuval",
+      "B": "Australian Prime Minister",
+      "C": "Government of Canada",
+      "D": "Mercedes-Benz"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0120",
+    "date": "2024-02-29",
+    "question": "According to news reports on 2024-02-29, which entity best fills the blank in this statement?\nAt least 43 people are killed in a building fire in [BLANK], Bangladesh.",
+    "options": {
+      "A": "European Central Bank",
+      "B": "Israel\u2013Hamas war protests in the United States",
+      "C": "Dhaka",
+      "D": "metro"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0075",
+    "date": "2024-03-06",
+    "question": "According to news reports on 2024-03-06, which entity best fills the blank in this statement?\n[BLANK] Dean Phillips ends his campaign and endorses President Joe Biden.",
+    "options": {
+      "A": "Tokelau",
+      "B": "U.S. Congressman",
+      "C": "Zaporizhzhia Nuclear Power Plant crisis",
+      "D": "India"
+    },
+    "answer": "B",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0086",
+    "date": "2024-03-06",
+    "question": "According to news reports on 2024-03-06, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "European Union",
+      "B": "Wagner Group",
+      "C": "Ecuador",
+      "D": "Nikki Haley 2024 presidential campaign"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0116",
+    "date": "2024-03-06",
+    "question": "According to news reports on 2024-03-06, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "2023 Israeli invasion of the Gaza Strip",
+      "B": "vote of no confidence",
+      "C": "Turkish Air Force",
+      "D": "2024 Democratic Party presidential primaries"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0179",
+    "date": "2024-03-06",
+    "question": "According to news reports on 2024-03-06, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Dean Phillips 2024 presidential campaign",
+      "B": "2024 Iran\u2013Israel conflict",
+      "C": "Syrian Air Force",
+      "D": "Emmanuel Macron"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0196",
+    "date": "2024-03-15",
+    "question": "According to news reports on 2024-03-15, which entity best fills the blank in this statement?\n[BLANK] Benjamin Netanyahu says that he has approved a military operation to capture Rafah in the southern Gaza Strip amid international pressure to stop the offensive.",
+    "options": {
+      "A": "Israeli prime minister",
+      "B": "Derna",
+      "C": "Luca Brecel",
+      "D": "arson"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0002",
+    "date": "2024-03-27",
+    "question": "According to news reports on 2024-03-27, which entity best fills the blank in this statement?\nA court in [BLANK] sentences four people to death and two others to life in prison for the 2013 murder of politician Chokri Belaid.",
+    "options": {
+      "A": "Shebekino",
+      "B": "Russian military presence in Belarus",
+      "C": "Tunisia",
+      "D": "Forl\u00ec\u2013Cesena"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0090",
+    "date": "2024-03-27",
+    "question": "According to news reports on 2024-03-27, which entity best fills the blank in this statement?\nThe French judiciary sentences the former leader of the [BLANK] Kunti Kamara to 30 years in prison on charges of committing \"crimes against humanity\".",
+    "options": {
+      "A": "United Liberation Movement of Liberia for Democracy",
+      "B": "Kuwaiti Prime Minister",
+      "C": "Riot",
+      "D": "East Jerusalem"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0096",
+    "date": "2024-03-27",
+    "question": "According to news reports on 2024-03-27, which entity best fills the blank in this statement?\nSeven killed in an Israeli airstrike on a Hezbollah paramedic center in [BLANK]. Hezbollah claims that the casualties were civilian staff.",
+    "options": {
+      "A": "United States Central Command",
+      "B": "curfew",
+      "C": "Gaza Strip",
+      "D": "Hebbariye"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0100",
+    "date": "2024-04-03",
+    "question": "According to news reports on 2024-04-03, which entity best fills the blank in this statement?\nA magnitude 7.4 [BLANK] strikes off the coast of Taiwan, prompting tsunami warnings for Okinawa Prefecture, Japan. A large section of the uninhabited Guishan Island collapses into the ocean. Nine people are killed in Taiwan, including four by rockfalls, with more than 930 others injured.",
+    "options": {
+      "A": "earthquake",
+      "B": "Beijing",
+      "C": "Tokelau",
+      "D": "International Criminal Court"
+    },
+    "answer": "A",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0056",
+    "date": "2024-04-10",
+    "question": "According to news reports on 2024-04-10, which entity best fills the blank in this statement?\nSouth Koreans vote for members of the [BLANK]. The opposition, primarily consisting of the Democratic Party, its alliance and the Rebuilding Korea Party, wins the election in a landslide, increasing their legislative majority but falling short of the two-thirds supermajority needed to pass constitutional amendments or override the veto of President Yoon Suk Yeol.",
+    "options": {
+      "A": "Nayib Bukele",
+      "B": "Donald Trump",
+      "C": "National Assembly",
+      "D": "Supreme Electoral Tribunal"
+    },
+    "answer": "C",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0128",
+    "date": "2024-04-24",
+    "question": "According to news reports on 2024-04-24, which entity best fills the blank in this statement?\nThe [BLANK] announces a $61 billion aid package for Ukraine as part of a bill that was recently approved after being stalled in the US Congress for months. The package includes ammunition for artillery and air defense systems, along with armoured fighting vehicles.",
+    "options": {
+      "A": "United States",
+      "B": "Philippines",
+      "C": "Long Island",
+      "D": "Ain al-Hilweh"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0071",
+    "date": "2024-04-29",
+    "question": "According to news reports on 2024-04-29, which entity best fills the blank in this statement?\n[BLANK] airstrikes in Rafah and Gaza City kill at least 40 people.",
+    "options": {
+      "A": "Bali",
+      "B": "Parliament",
+      "C": "Israeli",
+      "D": "Bernardo Ar\u00e9valo"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0216",
+    "date": "2024-04-29",
+    "question": "According to news reports on 2024-04-29, which entity best fills the blank in this statement?\n[BLANK] forces strike four ships in the Red Sea and damage the Malta-flagged, Greece-owned bulk carrier ''Cyclades''.",
+    "options": {
+      "A": "China National Nuclear Corporation",
+      "B": "Houthi",
+      "C": "Gitanas Naus\u0117da",
+      "D": "Venezuelan President"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0162",
+    "date": "2024-05-06",
+    "question": "According to news reports on 2024-05-06, which entity best fills the blank in this statement?\nAn EF4 tornado strikes the cities of [BLANK] and Bartlesville, Oklahoma, killing one and leaving one other missing.",
+    "options": {
+      "A": "Barnsdall",
+      "B": "China",
+      "C": "Typhoon Mawar",
+      "D": "Recep Tayyip Erdo\u011fan"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0049",
+    "date": "2024-05-13",
+    "question": "According to news reports on 2024-05-13, which entity best fills the blank in this statement?\nThe death toll from the ongoing heavy [BLANK]ing in southern Brazil increases to 147 people, with 127 people still missing.",
+    "options": {
+      "A": "flood",
+      "B": "Cambodian People's Party",
+      "C": "Beijing",
+      "D": "open fire"
+    },
+    "answer": "A",
+    "topic": "disaster"
+  },
+  {
+    "id": "wiki-news-0171",
+    "date": "2024-05-13",
+    "question": "According to news reports on 2024-05-13, which entity best fills the blank in this statement?\n[BLANK] and Ingrida \u0160imonyt\u0117 advance to the run-off election, which will be held on 26 May.",
+    "options": {
+      "A": "Gitanas Naus\u0117da",
+      "B": "golf",
+      "C": "Tunisia",
+      "D": "Bali"
+    },
+    "answer": "A",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0054",
+    "date": "2024-05-17",
+    "question": "According to news reports on 2024-05-17, which entity best fills the blank in this statement?\nIsraeli air strikes kill five people in [BLANK], including two children.",
+    "options": {
+      "A": "Lebanon",
+      "B": "Chile",
+      "C": "Bolivia",
+      "D": "Kosovo Police"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0194",
+    "date": "2024-05-17",
+    "question": "According to news reports on 2024-05-17, which entity best fills the blank in this statement?\n[BLANK] announces that an Israeli strike killed Sharhabil Sayed, a Hamas commander in Lebanon.",
+    "options": {
+      "A": "open fire",
+      "B": "Zaporizhzhia Nuclear Power Plant crisis",
+      "C": "Hamas",
+      "D": "2023 Israeli invasion of the Gaza Strip"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0218",
+    "date": "2024-05-17",
+    "question": "According to news reports on 2024-05-17, which entity best fills the blank in this statement?\nTwo police officers are killed and another is injured outside the [BLANK] police station in Johor, Malaysia. The killer is later fatally shot. Seven suspected members of Jemaah Islamiyah are arrested in connection to the attack.",
+    "options": {
+      "A": "NATO summit",
+      "B": "Ulu Tiram",
+      "C": "Ugandan President",
+      "D": "Nigerian forces"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0123",
+    "date": "2024-05-24",
+    "question": "According to news reports on 2024-05-24, which entity best fills the blank in this statement?\n''[BLANK]'', a Chinese film directed by Guan Hu, wins the ''Un Certain Regard'' prize for international films at the Cannes Film Festival.",
+    "options": {
+      "A": "U.S. Congressman",
+      "B": "Colombia",
+      "C": "Government of Canada",
+      "D": "Black Dog"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0219",
+    "date": "2024-05-24",
+    "question": "According to news reports on 2024-05-24, which entity best fills the blank in this statement?\n''[BLANK]'' becomes the first film from Saudi Arabia to screen as part of the official calendar at the Cannes Film Festival.",
+    "options": {
+      "A": "suicide bombing",
+      "B": "Norah",
+      "C": "mass shooting",
+      "D": "Turkish"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0028",
+    "date": "2024-05-31",
+    "question": "According to news reports on 2024-05-31, which entity best fills the blank in this statement?\nAt least three people are killed and 16 others are injured when Russian missiles hit civilian infrastructure in [BLANK].",
+    "options": {
+      "A": "Artsakh",
+      "B": "Tatmadaw",
+      "C": "Evacuations during the Israel\u2013Hamas war",
+      "D": "Kharkiv"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0055",
+    "date": "2024-05-31",
+    "question": "According to news reports on 2024-05-31, which entity best fills the blank in this statement?\nThe death toll from yesterday's [BLANK] and British Navy airstrikes in Yemen increases to 16 with 35 others injured.",
+    "options": {
+      "A": "U.S. Navy",
+      "B": "Buldhana district",
+      "C": "Cambodian People's Party",
+      "D": "Palestinians"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0081",
+    "date": "2024-05-31",
+    "question": "According to news reports on 2024-05-31, which entity best fills the blank in this statement?\nUkraine and Russia announce their first exchange of prisoners of war in nearly four months, with 150 people freed following negotiations mediated by the [BLANK].",
+    "options": {
+      "A": "Tripoli",
+      "B": "Rochdale",
+      "C": "United Arab Emirates",
+      "D": "gas explosion"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0097",
+    "date": "2024-06-07",
+    "question": "According to news reports on 2024-06-07, which entity best fills the blank in this statement?\nAt least 40 people are killed and 50 others are injured in an attack by the [BLANK] in Omdurman, Sudan.",
+    "options": {
+      "A": "Typhoon Mawar",
+      "B": "Rapid Support Forces",
+      "C": "Houston",
+      "D": "Khartoum"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0182",
+    "date": "2024-06-07",
+    "question": "According to news reports on 2024-06-07, which entity best fills the blank in this statement?\nA glass railing collapses outside the overcrowded RICH nightclub in [BLANK], causing several concertgoers to fall three stories, killing two and injuring 15.",
+    "options": {
+      "A": "Sinjar Resistance Units",
+      "B": "2023 Israeli invasion of the Gaza Strip",
+      "C": "Mexico",
+      "D": "Senegal"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0042",
+    "date": "2024-06-14",
+    "question": "According to news reports on 2024-06-14, which entity best fills the blank in this statement?\nThe [BLANK] military plans to temporarily dismantle the Gaza floating pier and move it to Israel following predictions of rough seas, suspending humanitarian aid shipments at the pier for the third time in the past month.",
+    "options": {
+      "A": "United States",
+      "B": "sailing",
+      "C": "Journalists killed in the Israel\u2013Hamas war",
+      "D": "Artsakh"
+    },
+    "answer": "A",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0131",
+    "date": "2024-06-14",
+    "question": "According to news reports on 2024-06-14, which entity best fills the blank in this statement?\n[BLANK]",
+    "options": {
+      "A": "Attacks in Russia during the Russian invasion of Ukraine",
+      "B": "United States Senate",
+      "C": "International sanctions during the Russian invasion of Ukraine",
+      "D": "Forl\u00ec\u2013Cesena"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0016",
+    "date": "2024-06-21",
+    "question": "According to news reports on 2024-06-21, which entity best fills the blank in this statement?\n[BLANK] Maia Sandu signs the decree that begins negotiations on Moldova's accession to the European Union. Sandu also announces that the first Moldova\u2013EU intergovernmental conference will take place on 25 June.",
+    "options": {
+      "A": "Dutch government",
+      "B": "defendant",
+      "C": "Hebbariye",
+      "D": "Moldovan president"
+    },
+    "answer": "D",
+    "topic": "politics"
+  },
+  {
+    "id": "wiki-news-0046",
+    "date": "2024-06-21",
+    "question": "According to news reports on 2024-06-21, which entity best fills the blank in this statement?\nAt least six people die due to [BLANK] in the Phoenix metropolitan area in Arizona, United States, as temperatures reach .",
+    "options": {
+      "A": "Donald Trump",
+      "B": "tropical storm",
+      "C": "heat-related illness",
+      "D": "parliament of Zimbabwe"
+    },
+    "answer": "C",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0202",
+    "date": "2024-06-21",
+    "question": "According to news reports on 2024-06-21, which entity best fills the blank in this statement?\n[BLANK] officially recognises the State of Palestine.",
+    "options": {
+      "A": "mobile carrier",
+      "B": "tennis",
+      "C": "Board of Directors",
+      "D": "Armenia"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0209",
+    "date": "2024-06-21",
+    "question": "According to news reports on 2024-06-21, which entity best fills the blank in this statement?\n[BLANK] officially defines Taiwanese separatist behavior as a criminal act.",
+    "options": {
+      "A": "Syria",
+      "B": "NATO summit",
+      "C": "Dhaka",
+      "D": "China"
+    },
+    "answer": "D",
+    "topic": "world-news"
+  },
+  {
+    "id": "wiki-news-0034",
+    "date": "2024-06-28",
+    "question": "According to news reports on 2024-06-28, which entity best fills the blank in this statement?\n[BLANK] troops claim to have killed at least ten suspected communist guerrillas, including three commanders, near a village in Pantabangan, Nueva Ecija, Philippines.",
+    "options": {
+      "A": "Israeli settler",
+      "B": "Philippine",
+      "C": "Parliament",
+      "D": "athletics"
+    },
+    "answer": "B",
+    "topic": "world-news"
+  }
+]

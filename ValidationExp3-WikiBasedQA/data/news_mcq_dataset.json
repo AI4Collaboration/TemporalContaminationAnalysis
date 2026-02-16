@@ -1,0 +1,158 @@
+[
+    {
+        "id": "news-001",
+        "date": "2023-06-18",
+        "question": "Who won the men's singles title at Wimbledon in 2023?",
+        "options": {
+            "A": "Novak Djokovic",
+            "B": "Carlos Alcaraz",
+            "C": "Daniil Medvedev",
+            "D": "Jannik Sinner"
+        },
+        "answer": "B",
+        "topic": "sports"
+    },
+    {
+        "id": "news-002",
+        "date": "2023-08-24",
+        "question": "India's Chandrayaan-3 mission became notable in August 2023 for what achievement?",
+        "options": {
+            "A": "First human landing on Mars",
+            "B": "First successful rover mission to Venus",
+            "C": "First soft landing near the Moon's south pole",
+            "D": "First asteroid mining mission"
+        },
+        "answer": "C",
+        "topic": "science"
+    },
+    {
+        "id": "news-003",
+        "date": "2023-09-10",
+        "question": "Which city hosted the 2023 G20 Leaders' Summit?",
+        "options": {
+            "A": "New Delhi",
+            "B": "Tokyo",
+            "C": "Jakarta",
+            "D": "Seoul"
+        },
+        "answer": "A",
+        "topic": "world-politics"
+    },
+    {
+        "id": "news-004",
+        "date": "2023-09-23",
+        "question": "Who became Speaker of the U.S. House of Representatives in October 2023 after multiple ballots?",
+        "options": {
+            "A": "Kevin McCarthy",
+            "B": "Hakeem Jeffries",
+            "C": "Mike Johnson",
+            "D": "Steve Scalise"
+        },
+        "answer": "C",
+        "topic": "us-politics"
+    },
+    {
+        "id": "news-005",
+        "date": "2023-09-22",
+        "question": "Which striking U.S. labor group expanded walkouts against major automakers in September 2023?",
+        "options": {
+            "A": "Writers Guild of America",
+            "B": "United Auto Workers",
+            "C": "Teamsters",
+            "D": "SEIU"
+        },
+        "answer": "B",
+        "topic": "economy"
+    },
+    {
+        "id": "news-006",
+        "date": "2023-10-07",
+        "question": "Which group launched the October 7, 2023 attack on Israel?",
+        "options": {
+            "A": "Hezbollah",
+            "B": "Hamas",
+            "C": "ISIS",
+            "D": "Fatah"
+        },
+        "answer": "B",
+        "topic": "world-politics"
+    },
+    {
+        "id": "news-007",
+        "date": "2023-11-22",
+        "question": "After his brief removal in November 2023, who returned as CEO of OpenAI?",
+        "options": {
+            "A": "Ilya Sutskever",
+            "B": "Greg Brockman",
+            "C": "Emmett Shear",
+            "D": "Sam Altman"
+        },
+        "answer": "D",
+        "topic": "technology"
+    },
+    {
+        "id": "news-008",
+        "date": "2023-12-13",
+        "question": "In which city was COP28 held in 2023?",
+        "options": {
+            "A": "Dubai",
+            "B": "Doha",
+            "C": "Cairo",
+            "D": "Riyadh"
+        },
+        "answer": "A",
+        "topic": "climate"
+    },
+    {
+        "id": "news-009",
+        "date": "2024-01-13",
+        "question": "Who won Taiwan's presidential election in January 2024?",
+        "options": {
+            "A": "Tsai Ing-wen",
+            "B": "Lai Ching-te",
+            "C": "Ko Wen-je",
+            "D": "Hou Yu-ih"
+        },
+        "answer": "B",
+        "topic": "world-politics"
+    },
+    {
+        "id": "news-010",
+        "date": "2024-02-16",
+        "question": "Russian opposition figure Alexei Navalny reportedly died in February 2024 in what type of facility?",
+        "options": {
+            "A": "Military hospital",
+            "B": "Embassy detention cell",
+            "C": "Penal colony",
+            "D": "Police station"
+        },
+        "answer": "C",
+        "topic": "world-politics"
+    },
+    {
+        "id": "news-011",
+        "date": "2024-03-10",
+        "question": "Which film won Best Picture at the 2024 Academy Awards?",
+        "options": {
+            "A": "Poor Things",
+            "B": "The Holdovers",
+            "C": "Barbie",
+            "D": "Oppenheimer"
+        },
+        "answer": "D",
+        "topic": "culture"
+    },
+    {
+        "id": "news-012",
+        "date": "2024-06-09",
+        "question": "Which political group remained the largest bloc in the 2024 European Parliament election results?",
+        "options": {
+            "A": "Greens/European Free Alliance",
+            "B": "The Left in the European Parliament",
+            "C": "European People's Party",
+            "D": "Renew Europe"
+        },
+        "answer": "C",
+        "topic": "world-politics"
+    }
+]

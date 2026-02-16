@@ -104,17 +104,17 @@ Key files:
 - `livecodebench.py` — apply transformations and run evaluations
 - `analysis.py` — aggregate results and compute metrics
 - `plotting.py` — generate visualizations
-- Notebooks for interactive analysis
+- `README.md` — script-only run instructions for this folder
 
 **Example**:
 ```powershell
 cd ValidationExp2-PerturbedLiveCodeBench
-python livecodebench.py --input sample_problems.json --perturbation-type rename_vars
-python analysis.py --results results/ --out stats.csv
-python plotting.py --stats stats.csv --out plots/
+python livecodebench.py
+python analysis.py
+python plotting.py
 ```
 
-**Output**: `results/`, `stats.csv`, and plots showing model robustness
+**Output**: `evaluation_results.json`, printed monthly stats, and `accuracy_plot.png`
 
 ---
 
@@ -181,7 +181,7 @@ pip install -e ".[dev]"
 │   ├── livecodebench.py
 │   ├── analysis.py
 │   ├── plotting.py
-│   └── *.ipynb
+│   └── README.md
 ├── pyproject.toml                   # Unified dependency configuration
 ├── uv.lock                          # Locked dependencies
 └── README.md                        # This file

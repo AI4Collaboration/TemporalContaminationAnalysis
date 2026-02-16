@@ -69,6 +69,7 @@ include = [
     "MainExp/**",
     "ValidationExp1-CLOZEusingAbstracts/**",
     "ValidationExp2-PerturbedLiveCodeBench/**",
+    "ValidationExp3-WikiBasedQA/**",
     "README.md",
     "pyproject.toml",
 ]
@@ -79,6 +80,7 @@ include = [
     "MainExp/**",
     "ValidationExp1-CLOZEusingAbstracts/**",
     "ValidationExp2-PerturbedLiveCodeBench/**",
+    "ValidationExp3-WikiBasedQA/**",
     "README.md",
     "pyproject.toml",
 ]

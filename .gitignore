@@ -202,3 +202,12 @@ output*
 tmp/
 results_*.json
 eval_results
+
+# ValidationExp3 generated intermediates
+ValidationExp3-WikiBasedQA/results/predictions.csv
+ValidationExp3-WikiBasedQA/results/transformed_questions.json
+
+# Explicit experiment cache folders
+ValidationExp1-CLOZEusingAbstracts/**/__pycache__/
+ValidationExp2-PerturbedLiveCodeBench/**/__pycache__/
+ValidationExp3-WikiBasedQA/**/__pycache__/
