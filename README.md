@@ -1,4 +1,4 @@
-# Time Will Tell: A Longitudinal Analysis on Reasoning-Driven Transformation Against Benchmark Contamination
+# Time Will Tell: Rethinking Temporal Pattern of Contamination 
 
 <div align="center">
 
