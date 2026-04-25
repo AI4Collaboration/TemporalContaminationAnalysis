@@ -54,7 +54,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--dataset",
-        default="ValidationExp3-WikiBasedQA/data/news_mcq_dataset.json",
+        default="ValidationExp3-WikiBasedQA/data/news_mcq_dataset_200plus.json",
         help="Path to dated news MCQ dataset",
     )
     parser.add_argument(
@@ -93,6 +93,15 @@ def parse_args() -> argparse.Namespace:
 
 
 def load_dataset(path: Path, max_questions: int = 0) -> List[QuestionItem]:
+    if not path.exists():
+        raise FileNotFoundError(
+            "Dataset file not found: "
+            f"{path}\n"
+            "Build one first with:\n"
+            "python ValidationExp3-WikiBasedQA/build_news_dataset_from_wikipedia.py "
+            "--start-date 2023-05-01 --end-date 2024-06-30 --target-size 220 "
+            "--output ValidationExp3-WikiBasedQA/data/news_mcq_dataset_200plus.json"
+        )
     with path.open("r", encoding="utf-8") as f:
         raw = json.load(f)
     items = [QuestionItem(**obj) for obj in raw]

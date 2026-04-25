@@ -136,6 +136,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
 .envrc
 .venv
 env/
@@ -180,6 +181,7 @@ cython_debug/
 
 # Visual Studio Code
 # Keep only workspace-level .vscode, ignore subfolder .vscode
+.vscode/
 */.vscode/
 
 # Ruff stuff:
@@ -198,6 +200,10 @@ __marimo__/
 
 # Misc
 env.sh
+*.pem
+*.key
+*.p12
+*.pfx
 output*
 tmp/
 results_*.json
@@ -206,6 +212,7 @@ eval_results
 # ValidationExp3 generated intermediates
 ValidationExp3-WikiBasedQA/results/predictions.csv
 ValidationExp3-WikiBasedQA/results/transformed_questions.json
+ValidationExp3-WikiBasedQA/data/*.json
 
 # Explicit experiment cache folders
 ValidationExp1-CLOZEusingAbstracts/**/__pycache__/
