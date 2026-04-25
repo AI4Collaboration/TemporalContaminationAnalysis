@@ -4,10 +4,13 @@ Additional experiment for reviewer request: test whether temporal decay behavior
 
 ## What this experiment does
 
-1. Loads dated news MCQ questions (`data/news_mcq_dataset.json`).
+1. Loads dated news MCQ questions (`data/news_mcq_dataset_200plus.json`).
 2. Generates transformed (paraphrased) versions while preserving answer/options.
 3. Evaluates selected OpenAI models on both original and transformed questions.
 4. Splits accuracy into pre/post cutoff windows and reports decay deltas.
+
+> Note: This repository does **not** ship the generated news dataset JSON files in git for open-source release hygiene.  
+> Please generate the dataset locally using the command below.
 
 ## Build 200+ dated news questions
 
