@@ -1,6 +1,4 @@
-# Time Will Tell: Rethinking Temporal Pattern of Contamination
-
-Codebase for the main experiment and validation experiments.
+# Test of Time: Rethinking Temporal Signal of Benchmark Contamination
 
 ## Repository Structure
 
